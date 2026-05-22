@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20 11:40:50",
+  "updated_at": "2026-05-22 10:46:53",
   "total_conferencias": 707,
   "auditores": {
     "ALESSANDRA": {
@@ -350,7 +350,7 @@
   "registros": [
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-09-01",
+      "data": "2026-09-01 00:00:00",
       "cliente": "LILIAN LOPES MACEDO OLIVEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -365,7 +365,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-13",
+      "data": "2026-01-13 00:00:00",
       "cliente": "ELISANGELA ALVES DE LIMA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CRONOGRAMA DE USO.",
@@ -380,7 +380,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-13",
+      "data": "2026-01-13 00:00:00",
       "cliente": "RODERICO ARNALDO BIANCHI",
       "empreendimento": "Canastra",
       "duvida": "INCC / IGPM",
@@ -395,7 +395,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-13",
+      "data": "2026-01-13 00:00:00",
       "cliente": "ANA CLAUDIA BUENOS DA COSTA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CRONOGRAMA DE USO/PASSAPORTE DO PARQUE/CESSÃO DE DIREITOS.",
@@ -410,7 +410,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-13",
+      "data": "2026-01-13 00:00:00",
       "cliente": "LEANDRO FIGUEIREDO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -425,7 +425,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-06-12",
+      "data": "2025-06-12 00:00:00",
       "cliente": "EUZEBIO RODRIGO RIBEIRO",
       "empreendimento": "Canastra",
       "duvida": "RENTABILIDADE",
@@ -440,7 +440,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-06-12",
+      "data": "2025-06-12 00:00:00",
       "cliente": "ANDERSON CARDOSO VAZ",
       "empreendimento": "Canastra",
       "duvida": "INTERCÂMBIOS",
@@ -455,7 +455,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-06-12",
+      "data": "2025-06-12 00:00:00",
       "cliente": "ALBERT CESAR DE OLIVEIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -470,7 +470,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-06-12",
+      "data": "2025-06-12 00:00:00",
       "cliente": "CHUYRA LUANA DOS SANTOS DO CARMO",
       "empreendimento": "Canastra",
       "duvida": "INTERVAL",
@@ -485,7 +485,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-06-12",
+      "data": "2025-06-12 00:00:00",
       "cliente": "LIGIA CRISTINA M DE AZEVEDO OLIVEIRA MENEZES",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -500,7 +500,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-06-12",
+      "data": "2025-06-12 00:00:00",
       "cliente": "GUILHERME MORAES MADEIRA",
       "empreendimento": "Canastra",
       "duvida": "LOCAÇÃO/INTERVAL",
@@ -515,7 +515,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-06-12",
+      "data": "2025-06-12 00:00:00",
       "cliente": "CLAYTON ROBERTO FAUSTINO",
       "empreendimento": "Canastra",
       "duvida": "LOCAÇÃO/INTERVAL",
@@ -530,7 +530,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-07-12",
+      "data": "2025-07-12 00:00:00",
       "cliente": "JOICE CAMILA TEIXEIRA QUATROQUE",
       "empreendimento": "Canastra",
       "duvida": "INTERVAL/LOCAÇÃO",
@@ -545,7 +545,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-07-12",
+      "data": "2025-07-12 00:00:00",
       "cliente": "JOSIEL DE MORAIS BARROS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -560,7 +560,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-07-12",
+      "data": "2025-07-12 00:00:00",
       "cliente": "JESSICA MARIA BEZERRA DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "CANCELAMENTO",
@@ -575,7 +575,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-07-12",
+      "data": "2025-07-12 00:00:00",
       "cliente": "WILSON DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -590,7 +590,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-07-12",
+      "data": "2025-07-12 00:00:00",
       "cliente": "ROSILANDIA CESARINA MENDES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -605,7 +605,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-07-12",
+      "data": "2025-07-12 00:00:00",
       "cliente": "CRISTINA BEATRIZ CARDIAL DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "TÍTULO DO PARQUE",
@@ -620,7 +620,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-08-12",
+      "data": "2025-08-12 00:00:00",
       "cliente": "HELIO DE MORAES TERRA FILHO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -635,7 +635,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-08-12",
+      "data": "2025-08-12 00:00:00",
       "cliente": "JOSE MARIA SILVEIRA LEITE",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -650,7 +650,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-08-12",
+      "data": "2025-08-12 00:00:00",
       "cliente": "ADRIANO HENRIQUE GASPAR",
       "empreendimento": "Canastra",
       "duvida": "INTERVAL",
@@ -665,7 +665,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-08-12",
+      "data": "2025-08-12 00:00:00",
       "cliente": "SADAYUKI CHINEN",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -680,7 +680,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-08-12",
+      "data": "2025-08-12 00:00:00",
       "cliente": "ROGERIO DOS SANTOS BERNARDES",
       "empreendimento": "Canastra",
       "duvida": "INTERCÂMBIO/LOCAÇÃO",
@@ -695,7 +695,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-08-12",
+      "data": "2025-08-12 00:00:00",
       "cliente": "LAIS CAROLINE BORTOLOTTI FREIRES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -710,7 +710,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-09-12",
+      "data": "2025-09-12 00:00:00",
       "cliente": "MARCELO FERRARI VIRI",
       "empreendimento": "Canastra",
       "duvida": "INTERVAL",
@@ -725,7 +725,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-11-12",
+      "data": "2025-11-12 00:00:00",
       "cliente": "SIMONY DO CARMO MELO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -740,7 +740,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-11-12",
+      "data": "2025-11-12 00:00:00",
       "cliente": "ROSANGELA ALBUQUERQUE MARQUES",
       "empreendimento": "Canastra",
       "duvida": "CRONOGRAMA DE USO",
@@ -755,7 +755,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-11-12",
+      "data": "2025-11-12 00:00:00",
       "cliente": "BRUNO ANTUNES GROTTI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -770,7 +770,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-11-12",
+      "data": "2025-11-12 00:00:00",
       "cliente": "ANTONIO TOMIO KIMURA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -785,7 +785,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-12",
+      "data": "2025-12-12 00:00:00",
       "cliente": "JUCIVANIA PEREIRA DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -800,7 +800,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-12",
+      "data": "2025-12-12 00:00:00",
       "cliente": "MARCOS JESREEL DOS SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -815,7 +815,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-13",
+      "data": "2025-12-13 00:00:00",
       "cliente": "ARTHUR DA SILVA SANTANA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -830,7 +830,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-14",
+      "data": "2025-12-14 00:00:00",
       "cliente": "DANIELA APARECIDA PIRES DAMASCENO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -845,7 +845,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-14",
+      "data": "2025-12-14 00:00:00",
       "cliente": "ALINE STOCCO SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -860,7 +860,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-14",
+      "data": "2025-12-14 00:00:00",
       "cliente": "DENILSON RODRIGUES DA COSTA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -875,7 +875,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-14",
+      "data": "2025-12-14 00:00:00",
       "cliente": "JÉSSICA AP. DA SILVA CAMPOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -890,7 +890,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-15",
+      "data": "2025-12-15 00:00:00",
       "cliente": "NICOLAS FERREIRA DE GOES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -905,7 +905,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-15",
+      "data": "2025-12-15 00:00:00",
       "cliente": "JESSICA ALVES EUZEBIO COUTINHO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -920,7 +920,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-16",
+      "data": "2025-12-16 00:00:00",
       "cliente": "ALUIZIO VIEIRADE FREITAS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -935,7 +935,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-16",
+      "data": "2025-12-16 00:00:00",
       "cliente": "DANYELLA CHRISTINA ASSUNCAO DE SOUSA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "VOCUHER INTERNACIONAL",
@@ -950,7 +950,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-16",
+      "data": "2025-12-16 00:00:00",
       "cliente": "REGIANE DOS SANTOS CAMARGO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CONDOMÍNIO",
@@ -965,7 +965,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-16",
+      "data": "2025-12-16 00:00:00",
       "cliente": "LARISSA DA SILVA RATIS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -980,7 +980,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-18",
+      "data": "2025-12-18 00:00:00",
       "cliente": "RICARDO PEREIRA FERNANDES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO",
@@ -995,7 +995,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-18",
+      "data": "2025-12-18 00:00:00",
       "cliente": "ALMIR SIQUEIRA JUNIOR",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO / IGPM",
@@ -1010,7 +1010,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-18",
+      "data": "2025-12-18 00:00:00",
       "cliente": "CAMILA BOER GOMES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -1025,7 +1025,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-18",
+      "data": "2025-12-18 00:00:00",
       "cliente": "DAIANY CRISTINA XAVIER BASTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1040,7 +1040,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-18",
+      "data": "2025-12-18 00:00:00",
       "cliente": "ROBATAO RAMOS DOS SANTOS JUNIOR",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1055,7 +1055,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-18",
+      "data": "2025-12-18 00:00:00",
       "cliente": "HELCIO DE MENDONCA ARAUJO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1070,7 +1070,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-19",
+      "data": "2025-12-19 00:00:00",
       "cliente": "CARLOS EDUARDO  PANCOTTI",
       "empreendimento": "Canastra",
       "duvida": "POLL DE  LOCAÇÃO/CRONOGRAMA DE USO",
@@ -1085,7 +1085,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-19",
+      "data": "2025-12-19 00:00:00",
       "cliente": "SANDRA CAVALCANTE CADETE",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO",
@@ -1100,7 +1100,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-19",
+      "data": "2025-12-19 00:00:00",
       "cliente": "ELCIO RICARDO DE FAVARI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO / UTILIZAÇÃO",
@@ -1115,7 +1115,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-19",
+      "data": "2025-12-19 00:00:00",
       "cliente": "FABIO PEREIRA DE SOUSA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1130,7 +1130,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-19",
+      "data": "2025-12-19 00:00:00",
       "cliente": "LUCIANO GOMES MARTINS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -1145,7 +1145,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "RAFAEL HERRERA DELAI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "ESCRITURAÇÃO DO IMÓVEL/CONDOMÍNIO",
@@ -1160,7 +1160,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "IGOR SARTORELLI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CRONOGRAMA DE USO",
@@ -1175,7 +1175,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "EDDY SAINT LOUIS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "IGPM",
@@ -1190,7 +1190,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "SAMUEL ROCHA ORTIZ",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1205,7 +1205,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "LUIS FERNANDO CARLESSI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1220,7 +1220,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "JACQUELINE SILVA OLIVEIRA SANTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1235,7 +1235,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "JUNIOR SEVERINO DE SOUSA",
       "empreendimento": "São Pedro Resort",
       "duvida": "IGPM E LOCAÇÃO",
@@ -1250,7 +1250,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "JÉSSICA FONTES DE SOUZA",
       "empreendimento": "São Pedro Resort",
       "duvida": "QUITAÇÃO E/OU VENDA",
@@ -1265,7 +1265,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "ALEXANDRA INÊS POLACCHINI SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "LOCAÇÃO",
@@ -1280,7 +1280,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "ANDRÉ BASTOS DE ANDRADE",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -1295,7 +1295,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "DANIEL SETTON",
       "empreendimento": "São Pedro Resort",
       "duvida": "COM DÚVIDAS",
@@ -1310,7 +1310,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-20",
+      "data": "2025-12-20 00:00:00",
       "cliente": "JADIEL S. DO NASCIMENTO",
       "empreendimento": "São Pedro Resort",
       "duvida": "UTILIZAÇÃO",
@@ -1325,7 +1325,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-21",
+      "data": "2025-12-21 00:00:00",
       "cliente": "BARBARA APARECIDA GONCALVES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1340,7 +1340,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-21",
+      "data": "2025-12-21 00:00:00",
       "cliente": "LIGIA DOS SANTOS FERRE DE CARMARGO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1355,7 +1355,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-21",
+      "data": "2025-12-21 00:00:00",
       "cliente": "GISELE CRISTINA SIMOES PERROT",
       "empreendimento": "São Pedro Thermas",
       "duvida": "IGPM",
@@ -1370,7 +1370,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-21",
+      "data": "2025-12-21 00:00:00",
       "cliente": "ELAINE CRISTINA DE LIMA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1385,7 +1385,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-21",
+      "data": "2025-12-21 00:00:00",
       "cliente": "GEOVANI DA SILVA RODRIGUES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1400,7 +1400,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-21",
+      "data": "2025-12-21 00:00:00",
       "cliente": "MARCOS ANTONIO DA CRUZ",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -1415,7 +1415,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-21",
+      "data": "2025-12-21 00:00:00",
       "cliente": "MICHELLE CRISTINA DIAS",
       "empreendimento": "São Pedro Resort",
       "duvida": "LOCAÇÃO",
@@ -1430,7 +1430,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-22",
+      "data": "2025-12-22 00:00:00",
       "cliente": "LETICIA REGINA LAZARO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1445,7 +1445,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-22",
+      "data": "2025-12-22 00:00:00",
       "cliente": "MARCOS VINICIUS FERREIRA LEAL",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1460,7 +1460,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-22",
+      "data": "2025-12-22 00:00:00",
       "cliente": "THIAGO DE SOUSA BRILHANTE",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1475,7 +1475,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-22",
+      "data": "2025-12-22 00:00:00",
       "cliente": "ANGELICA CRISTIANE PEDROZO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "IGPM / LOCAÇÃO / UTILIZAÇÃO",
@@ -1490,7 +1490,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-22",
+      "data": "2025-12-22 00:00:00",
       "cliente": "SILVIA ELENA DA SILVA DE CARVALHO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1505,7 +1505,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-22",
+      "data": "2025-12-22 00:00:00",
       "cliente": "NATÁLIA CRISTINA THOMÁZ SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -1520,7 +1520,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-22",
+      "data": "2025-12-22 00:00:00",
       "cliente": "ALAIS ALBARRAN FOLONI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -1535,7 +1535,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-22",
+      "data": "2025-12-22 00:00:00",
       "cliente": "EMILIA MENDES DA SILVA ALVES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -1550,7 +1550,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-23",
+      "data": "2025-12-23 00:00:00",
       "cliente": "ANDRESSA FONSECA LOPES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1565,7 +1565,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-23",
+      "data": "2025-12-23 00:00:00",
       "cliente": "DARCI SANTOS JUNIOR",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1580,7 +1580,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-23",
+      "data": "2025-12-23 00:00:00",
       "cliente": "MAICON ALBERTO FERRAZ EVILASIO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1595,7 +1595,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-23",
+      "data": "2025-12-23 00:00:00",
       "cliente": "BRUNO EDUARDO MOREIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1610,7 +1610,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-23",
+      "data": "2025-12-23 00:00:00",
       "cliente": "JOSE MUNIZ BASTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1625,7 +1625,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-23",
+      "data": "2025-12-23 00:00:00",
       "cliente": "LEANDRO ROGER CANDIDO DO CARMO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -1640,7 +1640,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-23",
+      "data": "2025-12-23 00:00:00",
       "cliente": "FLÁVIA AP. LIMA RIBEIRO PEREIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -1655,7 +1655,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-25",
+      "data": "2025-12-25 00:00:00",
       "cliente": "WILSON SOBREIRO ROSALES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1670,7 +1670,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-25",
+      "data": "2025-12-25 00:00:00",
       "cliente": "BRUNA FERNANDA DE CAMPOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1685,7 +1685,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-25",
+      "data": "2025-12-25 00:00:00",
       "cliente": "ROSEMEIRE DE OLIVEIRA MACHADO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1700,7 +1700,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-26",
+      "data": "2025-12-26 00:00:00",
       "cliente": "CRISTIANE ANUNCIADA DE LIMA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1715,7 +1715,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-26",
+      "data": "2025-12-26 00:00:00",
       "cliente": "MARIA FÁTIMA DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1730,7 +1730,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-26",
+      "data": "2025-12-26 00:00:00",
       "cliente": "REGINALDO SEVERO VANDERLEI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1745,7 +1745,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-26",
+      "data": "2025-12-26 00:00:00",
       "cliente": "FERNANDA CRISTINA DE LIMA VIEIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1760,7 +1760,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-26",
+      "data": "2025-12-26 00:00:00",
       "cliente": "GUILHERME AUGUSTO TAGLIAFERRO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1775,7 +1775,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-26",
+      "data": "2025-12-26 00:00:00",
       "cliente": "DIEGO HENRIQUE DE MENDONCA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1790,7 +1790,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-26",
+      "data": "2025-12-26 00:00:00",
       "cliente": "ALEXANDRE AMBROSIO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1805,7 +1805,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-26",
+      "data": "2025-12-26 00:00:00",
       "cliente": "ANA JULIA QUEIROZ",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -1820,7 +1820,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-26",
+      "data": "2025-12-26 00:00:00",
       "cliente": "LUCICLEIDE BORGES DE ARAÚJO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -1835,7 +1835,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-26",
+      "data": "2025-12-26 00:00:00",
       "cliente": "REGIANE MARIA DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -1850,7 +1850,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-26",
+      "data": "2025-12-26 00:00:00",
       "cliente": "DAVID AUGUSTO MAGRI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -1865,7 +1865,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "MARIA APARECIDA SOUSA MARIANO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1880,7 +1880,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "ALINE MICHELLE DE AZEVEDO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1895,7 +1895,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "ANA SUZIELI ARAUJO COSTA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1910,7 +1910,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "ANTONIO CESAR DA SILVA SOUSA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -1925,7 +1925,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "JOAO ANTONIO CAVALCANTE SOUZA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1940,7 +1940,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "ALESSANDRA BELLUCI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1955,7 +1955,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "GLENDA VITAL FLORES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -1970,7 +1970,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "JAMAL APARECIDO DOS SANTOS",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO / CRONOGRAMA DE USO",
@@ -1985,7 +1985,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "GABRIEL FERNANDO DUARTE ARENAS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2000,7 +2000,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "DEBORAH MOREIRA AGNELLI COSTA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2015,7 +2015,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "MAYLA TIEMI KOBUTI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2030,7 +2030,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-27",
+      "data": "2025-12-27 00:00:00",
       "cliente": "FÁBIO GAERTNER FARHAT",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2045,7 +2045,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-28",
+      "data": "2025-12-28 00:00:00",
       "cliente": "JULIANA CARRASCAL DE OLIVEIRA GRINGER",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2060,7 +2060,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-28",
+      "data": "2025-12-28 00:00:00",
       "cliente": "SIMONE BELLO DE CARVALHO PESSOLATO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2075,7 +2075,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-28",
+      "data": "2025-12-28 00:00:00",
       "cliente": "SILVIO LUIZ CAPODIFOGLIA PEREIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2090,7 +2090,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-28",
+      "data": "2025-12-28 00:00:00",
       "cliente": "KLERYSSON KELLY PEREIRA JARDIM",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO / INTERCAMBIADORA.",
@@ -2105,7 +2105,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-28",
+      "data": "2025-12-28 00:00:00",
       "cliente": "ILCA DE OLIVEIRA BARROS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2120,7 +2120,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-28",
+      "data": "2025-12-28 00:00:00",
       "cliente": "JACIARA CANDIDO ALVES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO",
@@ -2135,7 +2135,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-28",
+      "data": "2025-12-28 00:00:00",
       "cliente": "ROBSON RODRIGUES DOS SANTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2150,7 +2150,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-28",
+      "data": "2025-12-28 00:00:00",
       "cliente": "ANTONIO CARLOS ARAUJO FREITAS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2165,7 +2165,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-28",
+      "data": "2025-12-28 00:00:00",
       "cliente": "SILVIO PINHEIRO DOS REIS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2180,7 +2180,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-28",
+      "data": "2025-12-28 00:00:00",
       "cliente": "ANTONIO ALEVINO BORGES DE ALMEIDA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2195,7 +2195,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-28",
+      "data": "2025-12-28 00:00:00",
       "cliente": "FERNANDA DANGIO NUNES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2210,7 +2210,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-29",
+      "data": "2025-12-29 00:00:00",
       "cliente": "CAMILA PEREIRA DA SILVA MARICK",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2225,7 +2225,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-29",
+      "data": "2025-12-29 00:00:00",
       "cliente": "ADENILCE DA GLORIA CARVALHO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2240,7 +2240,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-29",
+      "data": "2025-12-29 00:00:00",
       "cliente": "FRANCISCO ANTONIO SCARAMUZZA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "INTERCÂMBIO",
@@ -2255,7 +2255,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-29",
+      "data": "2025-12-29 00:00:00",
       "cliente": "ANDRE LUIZ MAIOLLO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -2270,7 +2270,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-29",
+      "data": "2025-12-29 00:00:00",
       "cliente": "DIEGO OCAMPOS MONTEIRO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2285,7 +2285,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-29",
+      "data": "2025-12-29 00:00:00",
       "cliente": "CAIO RENAN PEREIRA TORRES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2300,7 +2300,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-29",
+      "data": "2025-12-29 00:00:00",
       "cliente": "REGIANE MARIANA DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2315,7 +2315,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-29",
+      "data": "2025-12-29 00:00:00",
       "cliente": "NANCY FLÁVIA ALEXANDRE PEREIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2330,7 +2330,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-29",
+      "data": "2025-12-29 00:00:00",
       "cliente": "ALLAN CIRIACO MOLLO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2345,7 +2345,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-30",
+      "data": "2025-12-30 00:00:00",
       "cliente": "MAURO ROBERTO DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2360,7 +2360,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-30",
+      "data": "2025-12-30 00:00:00",
       "cliente": "BRUNNA NERES MONTESCHIO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2375,7 +2375,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-30",
+      "data": "2025-12-30 00:00:00",
       "cliente": "LUIS ANTONIO PEREIRA DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2390,7 +2390,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-12-30",
+      "data": "2025-12-30 00:00:00",
       "cliente": "RODRIGO RAZE",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2405,7 +2405,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-31",
+      "data": "2025-12-31 00:00:00",
       "cliente": "KATUZI OGAWA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2420,7 +2420,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-12-31",
+      "data": "2025-12-31 00:00:00",
       "cliente": "FELIPE WILLIAN COSTA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -2435,7 +2435,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-01",
+      "data": "2026-01-01 00:00:00",
       "cliente": "LUIZ HUMBERTO DE ALMEIDA PEREIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2450,7 +2450,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-01",
+      "data": "2026-01-01 00:00:00",
       "cliente": "FERNANDA CINTRA DE LIMA ANDREOLLI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2465,7 +2465,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-01",
+      "data": "2026-01-01 00:00:00",
       "cliente": "LINCOLN FERNANDO CAMILO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2480,7 +2480,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "MARIA LAENE DOS SANTOS MARTINS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2495,7 +2495,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "DANILO TEODORO PARK",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2510,7 +2510,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "JANAINA GODOI SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2525,7 +2525,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "CLEITON DE GODOI SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2540,7 +2540,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "LILIAN MULLER DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2555,7 +2555,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "DANIELA APARECIDA SOARES DE MORAES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2570,7 +2570,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "JOELSON DA SILVA PINHEIRO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2585,7 +2585,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "KÁTIA MIRANDA DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2600,7 +2600,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "MICAELA GONÇALVES PEREIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2615,7 +2615,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "ELISABETE CRISTINA COSTA GÓES WILCHEZ",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2630,7 +2630,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "FRANCINI GOES WILCHEZ",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2645,7 +2645,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "JEFERSON LUIZ LODI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2660,7 +2660,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "CARLOS EDUARDO MARQUES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2675,7 +2675,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "PATRICIA DE SOUZA DANTAS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2690,7 +2690,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "ROBSON ALEXANDRE BASTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2705,7 +2705,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "ANTONIO YUGIRU TAMARU",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2720,7 +2720,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "JÚLIO CESAR PAULINO DOS SANTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CRONOGRAMA DE USO",
@@ -2735,7 +2735,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "BRUNO TAVARES DE OLIVEIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "IPTU",
@@ -2750,7 +2750,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "AMANDA RODRIGUES DOMINGUES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2765,7 +2765,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "MARCIO DA SILVA XAVIER",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2780,7 +2780,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "RENATO AGOSTINHO ARRUDA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2795,7 +2795,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "LÍRIA A. BUENO DERÓ",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2810,7 +2810,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "FILIPE JOSE DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2825,7 +2825,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "BEATRIZ FERREIRA SANTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2840,7 +2840,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "NAWRAS ALHALABI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2855,7 +2855,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "VALÉRIA APARECIDA DOS SANTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2870,7 +2870,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "JOÃO PEDRO GUIMARÃES DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2885,7 +2885,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "LEONARDO SARTAUSKIS PEREIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2900,7 +2900,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "RONALDO AUGUSTO PICCIN",
       "empreendimento": "São Pedro Thermas",
       "duvida": "VALORIZAÇÃO DO IMÓVEL.",
@@ -2915,7 +2915,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "FERNANDA GALVANI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2930,7 +2930,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "MURILO GOMES SANCHES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -2945,7 +2945,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "MIKAELA JOICY ANDRADE SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2960,7 +2960,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "FERNANDA CARDOSO HENRIQUE DE PAULA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -2975,7 +2975,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "AMANDA MARTA MORAES DE SOUZA",
       "empreendimento": "São Pedro Resort",
       "duvida": "RENTABILIDADE",
@@ -2990,7 +2990,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "VIVIANA ANDREA CARDONA LOPEZ",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3005,7 +3005,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-01",
+      "data": "2026-04-01 00:00:00",
       "cliente": "LUIZ CARLOS O. DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3020,7 +3020,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-01",
+      "data": "2026-05-01 00:00:00",
       "cliente": "ELIANA APARECIDA BERNARDINO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3035,7 +3035,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-01",
+      "data": "2026-05-01 00:00:00",
       "cliente": "JULIA PARIS DE OLIVEIRA BRANCO DOS REIS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3050,7 +3050,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-01",
+      "data": "2026-05-01 00:00:00",
       "cliente": "RODRIGO FERREIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -3065,7 +3065,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-01",
+      "data": "2026-05-01 00:00:00",
       "cliente": "GUILHERME HENRIQUE VALERIO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -3080,7 +3080,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-01",
+      "data": "2026-05-01 00:00:00",
       "cliente": "CARLA KELY PEREIRA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO",
@@ -3095,7 +3095,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-01",
+      "data": "2026-05-01 00:00:00",
       "cliente": "ELISANIA BATISTA DE OLIVEIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "LOCAÇÃO PARTICULAR",
@@ -3110,7 +3110,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-01",
+      "data": "2026-05-01 00:00:00",
       "cliente": "SILAS DA SILVA OLIVEIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3125,7 +3125,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-01",
+      "data": "2026-05-01 00:00:00",
       "cliente": "FABIOLA VAZ DE OLIVEIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3140,7 +3140,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-05-01",
+      "data": "2026-05-01 00:00:00",
       "cliente": "DEIVES RENAN SANTOS VITÓRIO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3155,7 +3155,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-05-01",
+      "data": "2026-05-01 00:00:00",
       "cliente": "EMERSON MARQUES CRESPO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3170,7 +3170,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-06",
+      "data": "2026-01-06 00:00:00",
       "cliente": "PAULO FLAVIO PEREIRA",
       "empreendimento": "Canastra",
       "duvida": "CRONOGRAMA DE UTILIZAÇÃO",
@@ -3185,7 +3185,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-06",
+      "data": "2026-01-06 00:00:00",
       "cliente": "VITOR RENAN PISSOCARO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -3200,7 +3200,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-06",
+      "data": "2026-01-06 00:00:00",
       "cliente": "SERGIO MARRA PEREIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3215,7 +3215,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-06",
+      "data": "2026-01-06 00:00:00",
       "cliente": "CYNTHIA ROSSANA AILLON",
       "empreendimento": "Canastra",
       "duvida": "IGPM",
@@ -3230,7 +3230,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-06",
+      "data": "2026-01-06 00:00:00",
       "cliente": "EDUARDO HENRIQUE FIGUEIREDO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3245,7 +3245,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-06",
+      "data": "2026-01-06 00:00:00",
       "cliente": "ERICK T. YAMAMOTO",
       "empreendimento": "São Pedro Resort",
       "duvida": "POOL DE LOCAÇÃO",
@@ -3260,7 +3260,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-06",
+      "data": "2026-01-06 00:00:00",
       "cliente": "JOELDER DE MACEDO AZEVEDO",
       "empreendimento": "São Pedro Resort",
       "duvida": "IGPM",
@@ -3275,7 +3275,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-08-01",
+      "data": "2026-08-01 00:00:00",
       "cliente": "ALINE MURIEL NERIS DE FARIA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3290,7 +3290,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-08-01",
+      "data": "2026-08-01 00:00:00",
       "cliente": "ANA PAULA ALVES DE TOLEDO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "IPGPM/IPTU",
@@ -3305,7 +3305,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-08-01",
+      "data": "2026-08-01 00:00:00",
       "cliente": "GIANCARLO QUEIRAZZA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -3320,7 +3320,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-08-01",
+      "data": "2026-08-01 00:00:00",
       "cliente": "ANDERSON RIBEIRO DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3335,7 +3335,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-08-01",
+      "data": "2026-08-01 00:00:00",
       "cliente": "JANAINA CANTADOR TEDESCHI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO / RCI / PARCELA DE INTERMEDIAÇÃO (CORRETAGEM)",
@@ -3350,7 +3350,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-08-01",
+      "data": "2026-08-01 00:00:00",
       "cliente": "GLAUCIA VIEIRA DO PRADO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CRONOGRAMA DE USO",
@@ -3365,7 +3365,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-08-01",
+      "data": "2026-08-01 00:00:00",
       "cliente": "MAURÍCIO SANTOS DE CARVALHO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3380,7 +3380,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-08-01",
+      "data": "2026-08-01 00:00:00",
       "cliente": "RODRIGO CESAR VENANCIO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3395,7 +3395,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-09-01",
+      "data": "2026-09-01 00:00:00",
       "cliente": "LUCAS PIZA TELES",
       "empreendimento": "Canastra",
       "duvida": "ESCRITURAÇÃO DO IMÓVEL/CONDOMÍNIO",
@@ -3410,7 +3410,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-09-01",
+      "data": "2026-09-01 00:00:00",
       "cliente": "DARIO TELES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3425,7 +3425,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-09-01",
+      "data": "2026-09-01 00:00:00",
       "cliente": "BRUNO DE ALMEIDA GONZALEZ",
       "empreendimento": "Canastra",
       "duvida": "INCC / IGPM",
@@ -3440,7 +3440,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-09-01",
+      "data": "2026-09-01 00:00:00",
       "cliente": "RODRIGO NATALINO DE JESUS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3455,7 +3455,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-09-01",
+      "data": "2026-09-01 00:00:00",
       "cliente": "RODRIGO REIS DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3470,7 +3470,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-09-01",
+      "data": "2026-09-01 00:00:00",
       "cliente": "OZEIAS ROCHA JUNIOR",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3485,7 +3485,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-09-01",
+      "data": "2026-09-01 00:00:00",
       "cliente": "MILLENA PESSOA SÁ",
       "empreendimento": "São Pedro Resort",
       "duvida": "FALÊNCIA DO EMPREENDIMENTO",
@@ -3500,7 +3500,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-09-01",
+      "data": "2026-09-01 00:00:00",
       "cliente": "RAPHAEL DE MOURA MOTA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3515,7 +3515,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-10",
+      "data": "2026-01-10 00:00:00",
       "cliente": "KARIN ELIZABETH KOLOMAZNIK PORTOLES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO / CRONOGRAMA DE USO",
@@ -3530,7 +3530,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-10",
+      "data": "2026-01-10 00:00:00",
       "cliente": "CELSO ALEXANDRE DOS SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3545,7 +3545,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-10",
+      "data": "2026-01-10 00:00:00",
       "cliente": "OCTAVIO ENRICO ZANETI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3560,7 +3560,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-10",
+      "data": "2026-01-10 00:00:00",
       "cliente": "WILLIAM COSTA ROCHA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3575,7 +3575,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-10",
+      "data": "2026-01-10 00:00:00",
       "cliente": "ANDERSON LUCAS FERRO",
       "empreendimento": "Canastra",
       "duvida": "INCC / IGPM",
@@ -3590,7 +3590,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-10",
+      "data": "2026-01-10 00:00:00",
       "cliente": "FABIANO DA SILVA MIRANDA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -3605,7 +3605,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-10",
+      "data": "2026-01-10 00:00:00",
       "cliente": "LUIZ FERNANDO CHAGAS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3620,7 +3620,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-10",
+      "data": "2026-01-10 00:00:00",
       "cliente": "ANDREZA FERNANDES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3635,7 +3635,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-10",
+      "data": "2026-01-10 00:00:00",
       "cliente": "KARINA MÁRCIA DE BESSAS SOUSA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3650,7 +3650,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-10",
+      "data": "2026-01-10 00:00:00",
       "cliente": "WAGNER APARECIDO DA SILVA JÚNIOR",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3665,7 +3665,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-10",
+      "data": "2026-01-10 00:00:00",
       "cliente": "LUCIANA MOREIRA SANTOS DE SANTANA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3680,7 +3680,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-11",
+      "data": "2026-01-11 00:00:00",
       "cliente": "JULIANO SANTAROSA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -3695,7 +3695,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-11",
+      "data": "2026-01-11 00:00:00",
       "cliente": "ERICLIS BERNARDO DE SOUZA PINTO",
       "empreendimento": "Canastra",
       "duvida": "CRONOGRAMA DE USO.",
@@ -3710,7 +3710,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-11",
+      "data": "2026-01-11 00:00:00",
       "cliente": "MAIARA BERNARDO DE SOUZA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3725,7 +3725,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-11",
+      "data": "2026-01-11 00:00:00",
       "cliente": "WALDEMAR OSSAMU DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "IPTU",
@@ -3740,7 +3740,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-11",
+      "data": "2026-01-11 00:00:00",
       "cliente": "ANA PAULA GALDINO",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -3755,7 +3755,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-11",
+      "data": "2026-01-11 00:00:00",
       "cliente": "LEONARDO AMORIM FRASNELLI",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO / POSSE PRECÁRIA / IGPM",
@@ -3770,7 +3770,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-11",
+      "data": "2026-01-11 00:00:00",
       "cliente": "LEONARDO DE CARVALHO JÚNIOR",
       "empreendimento": "Canastra",
       "duvida": "INTERCÂMBIO",
@@ -3785,7 +3785,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-11",
+      "data": "2026-01-11 00:00:00",
       "cliente": "WELLINGTON PEREIRA DE CARVALHO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -3800,7 +3800,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-12",
+      "data": "2026-01-12 00:00:00",
       "cliente": "RONALDO SANTOS ROSA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -3815,7 +3815,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-12",
+      "data": "2026-01-12 00:00:00",
       "cliente": "EDVALDO DE SOUZA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -3830,7 +3830,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-12",
+      "data": "2026-01-12 00:00:00",
       "cliente": "JULIANO JULIO DOS REIS ALVES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -3845,7 +3845,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-12",
+      "data": "2026-01-12 00:00:00",
       "cliente": "RUBENS DOS SANTOS JUNIOR",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -3860,7 +3860,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-12",
+      "data": "2026-01-12 00:00:00",
       "cliente": "JULIANA FERRAZ DE JESUS",
       "empreendimento": "Canastra",
       "duvida": "CRONOGRAMA DE USO/IGPM",
@@ -3875,7 +3875,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-12",
+      "data": "2026-01-12 00:00:00",
       "cliente": "BRUNA MUGINSKI WIACZOREK",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -3890,7 +3890,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-12",
+      "data": "2026-01-12 00:00:00",
       "cliente": "CLAUDEMIR DE SOUZA",
       "empreendimento": "São Pedro Resort",
       "duvida": "VALOR IGPM",
@@ -3905,7 +3905,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-12",
+      "data": "2026-01-12 00:00:00",
       "cliente": "JAILMA PATRÍCIA SIQUEIRA E SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -3920,7 +3920,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-13",
+      "data": "2026-01-13 00:00:00",
       "cliente": "JANE APARECIDA DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "VALOR DAS PARCELAS",
@@ -3935,7 +3935,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-13",
+      "data": "2026-01-13 00:00:00",
       "cliente": "RAFAELLE CARVALHO BRAGA COSTA",
       "empreendimento": "São Pedro Resort",
       "duvida": "POOL DE LOCAÇÃO / VENDA",
@@ -3950,7 +3950,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-13",
+      "data": "2026-01-13 00:00:00",
       "cliente": "EDUARDO HENRIQUE DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "LOCAÇÃO",
@@ -3965,7 +3965,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-15",
+      "data": "2026-01-15 00:00:00",
       "cliente": "MILER RODRIGO PINTO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CRONOGRAMA DE UTILIZAÇÃO",
@@ -3980,7 +3980,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-15",
+      "data": "2026-01-15 00:00:00",
       "cliente": "GIOVANE MANTOVANI DE FARIA",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -3995,7 +3995,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-15",
+      "data": "2026-01-15 00:00:00",
       "cliente": "JESSICA FERNANDA DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -4010,7 +4010,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-15",
+      "data": "2026-01-15 00:00:00",
       "cliente": "ITALO BONFOGO PENTEADO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -4025,7 +4025,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-15",
+      "data": "2026-01-15 00:00:00",
       "cliente": "SIMONE MIRANDA ROCHA GORSKA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4040,7 +4040,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-15",
+      "data": "2026-01-15 00:00:00",
       "cliente": "ANDRÉ FERNANDES PERRON",
       "empreendimento": "São Pedro Resort",
       "duvida": "POOL DE LOCAÇÃO / IGPM / IPTU / PLATAFORMA",
@@ -4055,7 +4055,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-16",
+      "data": "2026-01-16 00:00:00",
       "cliente": "GISELE FAUSTINO DOS SANTOS PINTO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4070,7 +4070,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-16",
+      "data": "2026-01-16 00:00:00",
       "cliente": "EDILEINE APARECIDA BALSAN",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO / CRONOGRAMA DE USO",
@@ -4085,7 +4085,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-16",
+      "data": "2026-01-16 00:00:00",
       "cliente": "MARCELO TUMANG LONGHTANO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "IGPM",
@@ -4100,7 +4100,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-16",
+      "data": "2026-01-16 00:00:00",
       "cliente": "RAPHAELA BEATRIZ MECIANO SIQUEIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -4115,7 +4115,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-16",
+      "data": "2026-01-16 00:00:00",
       "cliente": "EDISON PAULO DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -4130,7 +4130,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-16",
+      "data": "2026-01-16 00:00:00",
       "cliente": "MOISÉS DAMASCENO MOZA",
       "empreendimento": "São Pedro Resort",
       "duvida": "IGPM",
@@ -4145,7 +4145,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-16",
+      "data": "2026-01-16 00:00:00",
       "cliente": "BEATRIZ DE OLIVEIRA DOMENICHE LIMA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4160,7 +4160,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-17",
+      "data": "2026-01-17 00:00:00",
       "cliente": "WILSON JOSE DOS SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4175,7 +4175,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-17",
+      "data": "2026-01-17 00:00:00",
       "cliente": "THAIS SUAID CASSIMIRO",
       "empreendimento": "Canastra",
       "duvida": "INCC / IGPM",
@@ -4190,7 +4190,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-17",
+      "data": "2026-01-17 00:00:00",
       "cliente": "LUCAS AKIRA UEHARA",
       "empreendimento": "Canastra",
       "duvida": "INTERVAL",
@@ -4205,7 +4205,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-17",
+      "data": "2026-01-17 00:00:00",
       "cliente": "EDSON BATISTA DOS SANTOS",
       "empreendimento": "Canastra",
       "duvida": "CRONOGRAMA DE USO",
@@ -4220,7 +4220,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-17",
+      "data": "2026-01-17 00:00:00",
       "cliente": "MAIRA CRISTIANE NOVELI MANCHINI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4235,7 +4235,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-17",
+      "data": "2026-01-17 00:00:00",
       "cliente": "ERIVANIA SILVA PEREIRA DOS ANJOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "IPTU, CONDOMÍNIO",
@@ -4250,7 +4250,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-17",
+      "data": "2026-01-17 00:00:00",
       "cliente": "CLEVER RICARDO GUAREIS DE FARIA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4265,7 +4265,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-17",
+      "data": "2026-01-17 00:00:00",
       "cliente": "JINHEE KIM",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4280,7 +4280,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-17",
+      "data": "2026-01-17 00:00:00",
       "cliente": "JULIANA DOS SANTOS MARTINS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4310,7 +4310,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-18",
+      "data": "2026-01-18 00:00:00",
       "cliente": "MARISTELA ROBERTA PHILOMENO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4325,7 +4325,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-18",
+      "data": "2026-01-18 00:00:00",
       "cliente": "LUIZ CARLOS DOMINGUES FRANCO JÚNIOR",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4340,7 +4340,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-19",
+      "data": "2026-01-19 00:00:00",
       "cliente": "WILLIAM SANTOS SENEFONTE",
       "empreendimento": "São Pedro Resort",
       "duvida": "IPTU",
@@ -4355,7 +4355,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-20",
+      "data": "2026-01-20 00:00:00",
       "cliente": "JOSIMAR PEREIRA SIMÕES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4370,7 +4370,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-20",
+      "data": "2026-01-20 00:00:00",
       "cliente": "RENATO PINHEIRO NUNES",
       "empreendimento": "São Pedro Resort",
       "duvida": "TRANSFERÊNCIA DE CONTRATO",
@@ -4385,7 +4385,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-20",
+      "data": "2026-01-20 00:00:00",
       "cliente": "ANSELMO FELIX DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "IPTU, CONDOMÍNIO",
@@ -4400,7 +4400,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-20",
+      "data": "2026-01-20 00:00:00",
       "cliente": "NICOLAS RODRIGUES DE CASTRO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4415,7 +4415,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-22",
+      "data": "2026-01-22 00:00:00",
       "cliente": "LILIAN CASTILHO DE MELO ARAGAO",
       "empreendimento": "Canastra",
       "duvida": "INCC / IGPM",
@@ -4430,7 +4430,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-22",
+      "data": "2026-01-22 00:00:00",
       "cliente": "DANIELLY MELLO VASCONCELLOS",
       "empreendimento": "Canastra",
       "duvida": "INTERVAL",
@@ -4445,7 +4445,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-22",
+      "data": "2026-01-22 00:00:00",
       "cliente": "JOSE ROBERTO BURIOLA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4460,7 +4460,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-22",
+      "data": "2026-01-22 00:00:00",
       "cliente": "VIVIAN ALMEIDA GARCIA",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -4475,7 +4475,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-22",
+      "data": "2026-01-22 00:00:00",
       "cliente": "JEFFERSON ROCHA ROSA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4490,7 +4490,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-22",
+      "data": "2026-01-22 00:00:00",
       "cliente": "TANIA AP. ARMACOLLO PAUCIC",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4505,7 +4505,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-22",
+      "data": "2026-01-22 00:00:00",
       "cliente": "RODRIGO CESAR DE JESUS APETITO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4520,7 +4520,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-23",
+      "data": "2026-01-23 00:00:00",
       "cliente": "TAYNA SONAGERI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4535,7 +4535,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-23",
+      "data": "2026-01-23 00:00:00",
       "cliente": "SERGIO MENDES PINTO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4550,7 +4550,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-23",
+      "data": "2026-01-23 00:00:00",
       "cliente": "JULIO CESAR DE ANDRADE",
       "empreendimento": "Canastra",
       "duvida": "INCC / IGPM",
@@ -4565,7 +4565,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-23",
+      "data": "2026-01-23 00:00:00",
       "cliente": "IVAN MACHADO FERNANDES",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO / CRONOGRAMA DE USO",
@@ -4580,7 +4580,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-23",
+      "data": "2026-01-23 00:00:00",
       "cliente": "ANDRE LUIZ ALVES (PARQUE)",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4595,7 +4595,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-23",
+      "data": "2026-01-23 00:00:00",
       "cliente": "CARLOS HENRIQUE RAMOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4610,7 +4610,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-24",
+      "data": "2026-01-24 00:00:00",
       "cliente": "FABIANO APARECIDO FRANCO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -4625,7 +4625,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-24",
+      "data": "2026-01-24 00:00:00",
       "cliente": "VICTOR RICARDO VITZEL BENELLI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO / RENTABILIDADE",
@@ -4640,7 +4640,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-24",
+      "data": "2026-01-24 00:00:00",
       "cliente": "RAFAELA MARIANA DE LARA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -4655,7 +4655,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-24",
+      "data": "2026-01-24 00:00:00",
       "cliente": "WESLLEY DIAS CARDOSO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -4670,7 +4670,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-24",
+      "data": "2026-01-24 00:00:00",
       "cliente": "LEANDRO DO PRADO CRUZ",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -4685,7 +4685,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-24",
+      "data": "2026-01-24 00:00:00",
       "cliente": "FERNANDO FAVERO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -4700,7 +4700,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-24",
+      "data": "2026-01-24 00:00:00",
       "cliente": "ALVARO JOSE DE ALMEIDA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO",
@@ -4715,7 +4715,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-24",
+      "data": "2026-01-24 00:00:00",
       "cliente": "ERIK FORTI DEGASPERI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4730,7 +4730,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-24",
+      "data": "2026-01-24 00:00:00",
       "cliente": "IVAN NEILER RODRIGUES DE FREITAS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4745,7 +4745,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-24",
+      "data": "2026-01-24 00:00:00",
       "cliente": "EULER BAPTISTA DA CRUZ",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4760,7 +4760,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-24",
+      "data": "2026-01-24 00:00:00",
       "cliente": "LAIANE SILVA LANDIM",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4775,7 +4775,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-25",
+      "data": "2026-01-25 00:00:00",
       "cliente": "MAURO ROBERTO CHERBAKIAN",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4790,7 +4790,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-25",
+      "data": "2026-01-25 00:00:00",
       "cliente": "ORJANA REGINA DA CUNHA QUIRINO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4805,7 +4805,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-25",
+      "data": "2026-01-25 00:00:00",
       "cliente": "SHEILA MARCELINO ALVES FERREIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4820,7 +4820,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-26",
+      "data": "2026-01-26 00:00:00",
       "cliente": "MARLEIDE DIAS SOARES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4835,7 +4835,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-26",
+      "data": "2026-01-26 00:00:00",
       "cliente": "VANILDI DE JESUS VICENTE",
       "empreendimento": "Canastra",
       "duvida": "CRONOGRAMA DE USO / INCC / IGPM",
@@ -4850,7 +4850,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-26",
+      "data": "2026-01-26 00:00:00",
       "cliente": "NAJARA ROCHA DE CARVALHO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4865,7 +4865,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-27",
+      "data": "2026-01-27 00:00:00",
       "cliente": "THIAGO HENRIQUE RODRIGUES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4880,7 +4880,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-27",
+      "data": "2026-01-27 00:00:00",
       "cliente": "ELLEN CRISTINA DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4895,7 +4895,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-27",
+      "data": "2026-01-27 00:00:00",
       "cliente": "SILMARA DA SILVA AZEVEDO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4910,7 +4910,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-29",
+      "data": "2026-01-29 00:00:00",
       "cliente": "GABRIEL DA SILVA ALVES",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO/RENTABILIDADE",
@@ -4925,7 +4925,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-29",
+      "data": "2026-01-29 00:00:00",
       "cliente": "SUELLEN ANTUNES ARAUJO",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO / RENTABILIDADE",
@@ -4940,7 +4940,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-29",
+      "data": "2026-01-29 00:00:00",
       "cliente": "MIRELE SILVA VIEIRA PRADO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4955,7 +4955,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-29",
+      "data": "2026-01-29 00:00:00",
       "cliente": "ELENI GONCALVES SOMERA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -4970,7 +4970,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-29",
+      "data": "2026-01-29 00:00:00",
       "cliente": "CRISTINA JASSILOTO LOPES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -4985,7 +4985,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-30",
+      "data": "2026-01-30 00:00:00",
       "cliente": "LUAN PEREIRA PRATI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5000,7 +5000,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-30",
+      "data": "2026-01-30 00:00:00",
       "cliente": "ALINE SOUZA PRATTI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5015,7 +5015,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-30",
+      "data": "2026-01-30 00:00:00",
       "cliente": "WILSON WANDERLEY PEREZ",
       "empreendimento": "Canastra",
       "duvida": "CRONOGRAMA DE USO",
@@ -5030,7 +5030,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-30",
+      "data": "2026-01-30 00:00:00",
       "cliente": "MOACIR MARTINS MEDINA",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO / RENTABILIDADE",
@@ -5045,7 +5045,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-30",
+      "data": "2026-01-30 00:00:00",
       "cliente": "ERICK FERNANDO POLLI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5060,7 +5060,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-30",
+      "data": "2026-01-30 00:00:00",
       "cliente": "ALESSANDRA MERIGHI RODRIGUES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5075,7 +5075,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-31",
+      "data": "2026-01-31 00:00:00",
       "cliente": "JOYCE ALECSANDRA SANTOS MENDES",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO / RENTABILIDADE",
@@ -5090,7 +5090,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-31",
+      "data": "2026-01-31 00:00:00",
       "cliente": "DAVI SILVA OLIVEIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -5105,7 +5105,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-31",
+      "data": "2026-01-31 00:00:00",
       "cliente": "MARCONIDIS GUIMARAES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5120,7 +5120,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-31",
+      "data": "2026-01-31 00:00:00",
       "cliente": "VAGNER DE SOUZA LIMA FILHO",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -5135,7 +5135,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-31",
+      "data": "2026-01-31 00:00:00",
       "cliente": "MARCO ANTONIO GALATI RODRIGUES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -5150,7 +5150,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-31",
+      "data": "2026-01-31 00:00:00",
       "cliente": "MIKAIL ALVES GOMES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5165,7 +5165,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-31",
+      "data": "2026-01-31 00:00:00",
       "cliente": "DANIELA PALOMA DOS SANTOS ZEFERINO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5180,7 +5180,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-31",
+      "data": "2026-01-31 00:00:00",
       "cliente": "DÉBORA PRISCILA BERNARDES DE OLIVEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5195,7 +5195,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-31",
+      "data": "2026-01-31 00:00:00",
       "cliente": "VANESSA CHAVES DE OLIVEIRA LEAL",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5210,7 +5210,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-31",
+      "data": "2026-01-31 00:00:00",
       "cliente": "MAGNER GARCEZ DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5225,7 +5225,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "LUANA MATIAS DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5240,7 +5240,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "FRANCISCO RODRIGUES DAS CHAGAS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -5255,7 +5255,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-01",
+      "data": "2026-02-01 00:00:00",
       "cliente": "WAGNER LUIZ TORRES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5270,7 +5270,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-02",
+      "data": "2026-02-02 00:00:00",
       "cliente": "DAIANE MAYARA PAIXAO DE SOUSA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5285,7 +5285,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-02",
+      "data": "2026-02-02 00:00:00",
       "cliente": "CRISTIANO FLORÊNCIO MACHADO",
       "empreendimento": "São Pedro Resort",
       "duvida": "IPTU",
@@ -5300,7 +5300,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-02",
+      "data": "2026-02-02 00:00:00",
       "cliente": "CARLOS HENRIQUE LIMA CARDIAL",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5315,7 +5315,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-02",
+      "data": "2026-02-02 00:00:00",
       "cliente": "MIRIAM FERREIRA CRUZ",
       "empreendimento": "São Pedro Resort",
       "duvida": "IPTU",
@@ -5330,7 +5330,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-03",
+      "data": "2026-02-03 00:00:00",
       "cliente": "SIMONE FLORENTINA DE LEMOS MARCIANO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5345,7 +5345,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "JOSE REGINALDO GALDINO",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO / RENDIMENTOS",
@@ -5360,7 +5360,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "SANDRA GABRIELE LOPES OLIVEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5375,7 +5375,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "FABÍOLA PADOVANI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5390,7 +5390,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-06",
+      "data": "2026-02-06 00:00:00",
       "cliente": "PRISCILA RAMOS DOS SANTOS FREITAS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5405,7 +5405,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-06",
+      "data": "2026-02-06 00:00:00",
       "cliente": "IVONETE SANTOS DE JESUS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5420,7 +5420,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-06",
+      "data": "2026-02-06 00:00:00",
       "cliente": "ROGERIO RIGONATTI DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -5435,7 +5435,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-06",
+      "data": "2026-02-06 00:00:00",
       "cliente": "ROBSON WILLIAN TOLEDO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5450,7 +5450,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-06",
+      "data": "2026-02-06 00:00:00",
       "cliente": "VINICIUS DE SOUZA SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5465,7 +5465,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "UILIAN BRUNO LIMA DA MOTA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -5480,7 +5480,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2025-02-07",
+      "data": "2025-02-07 00:00:00",
       "cliente": "MAIKON RANGELHICO DOS SANTOS FERREIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -5495,7 +5495,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "JEAN GABRIEL LICO DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -5510,7 +5510,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "KISLEN KARINA ROMERO FAGUNDES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5525,7 +5525,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "IRINEU ROGERIO EVANGELISTA DIAS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -5540,7 +5540,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "MARCELO COSTA SABO",
       "empreendimento": "Canastra",
       "duvida": "INTERCAMBIADORA INTERVAL",
@@ -5555,7 +5555,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "MAURILIO MARCOS CAMPAROTTI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5570,7 +5570,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "SIDNEY FERNANDES DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "INCC / IGPM",
@@ -5585,7 +5585,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "MATHEUS DENIZ",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -5600,7 +5600,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "ANDREIA DA SILVA NUNES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CANCELAMENTO",
@@ -5615,7 +5615,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "VIVIANE CLEMENTINO CRUZ",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5630,7 +5630,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "THALIS WENDEL NUNES PIRES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5645,7 +5645,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "BRUNO C. LIMA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5660,7 +5660,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "LUCAS LOPES DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5675,7 +5675,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-07",
+      "data": "2026-02-07 00:00:00",
       "cliente": "DANIEL KLAROSK",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5690,7 +5690,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "FELIPE MATEUS DE CAMARGO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5705,7 +5705,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-09",
+      "data": "2026-02-09 00:00:00",
       "cliente": "ANA PAULA SOARES FLORES",
       "empreendimento": "Canastra",
       "duvida": "INTERVAL",
@@ -5720,7 +5720,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-09",
+      "data": "2026-02-09 00:00:00",
       "cliente": "EDMAR PEREIRA BERTOSO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5735,7 +5735,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-11",
+      "data": "2026-02-11 00:00:00",
       "cliente": "VITORIA APARECIDA SANTOS ALCANTARA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CRONOGRAMA DE USO",
@@ -5750,7 +5750,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-13",
+      "data": "2026-02-13 00:00:00",
       "cliente": "ADRIANA MARTINS FERREIRA",
       "empreendimento": "Canastra",
       "duvida": "LOCAÇÃO",
@@ -5765,7 +5765,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-10",
+      "data": "2026-02-10 00:00:00",
       "cliente": "FELIPE BUENO SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5780,7 +5780,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-12",
+      "data": "2026-02-12 00:00:00",
       "cliente": "NEILSON RIBEIRO ROCHA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5795,7 +5795,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-12",
+      "data": "2026-02-12 00:00:00",
       "cliente": "FELIPE SASAKI RODRIGUES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -5810,7 +5810,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-13",
+      "data": "2026-02-13 00:00:00",
       "cliente": "FABIANA CRISTINA BERGMANN DE SOUZA DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5825,7 +5825,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "ESTEVAO RAYMUNDO DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5840,7 +5840,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "APARECIDA CRISTINA CAMAROTTO SANCHES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "UTILIZAÇÃO/RCI",
@@ -5855,7 +5855,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "MARCILIO JOSE ALVES FILHO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5870,7 +5870,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "JONATHAN JONYS MIRANDA",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -5885,7 +5885,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "MURILO SANTOS DO NASCIMENTO",
       "empreendimento": "Canastra",
       "duvida": "CRONOGRAMA DE USO / INCC / IGPM",
@@ -5900,7 +5900,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "ROBERTA RAFAELA GIROTO DECHEN",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5915,7 +5915,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "RENAN AUGUSTO GARGALAC FEITOSA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5930,7 +5930,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "TATIANE APARECIDA DA SILVA SIMOES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5945,7 +5945,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "LARISSA SOUZA NASCIMENTO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "RENTABILIDADE",
@@ -5960,7 +5960,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "ELLEN APARECIDA MAEVES MEDEIROS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5975,7 +5975,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "NATANAEL PASSOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -5990,7 +5990,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "CAMILA CAMARA RODRIGUES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6005,7 +6005,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "WESLEY LIMA CAMPOS",
       "empreendimento": "Canastra",
       "duvida": "VOUCHER/UTILIZAÇÃO",
@@ -6020,7 +6020,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "DENISE CRISTINA CUSTODIO VAN DE GROES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6035,7 +6035,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "MAYLEIZE NEVES DE OLIVEIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6050,7 +6050,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "JESSICA SILVA ANTUNES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6065,7 +6065,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "NILSON FRANCISCO RODRIGUES SOARES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6080,7 +6080,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "OSCAR TAKAIUKI HAIOKA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6095,7 +6095,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-15",
+      "data": "2026-02-15 00:00:00",
       "cliente": "ANTONIO CÉSAR SANTANA DE MORAIS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6110,7 +6110,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "MARIANA MAILKUT DOS SANTOS LUIZ",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6125,7 +6125,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "ELYELSEN FELIPE MENDES DE OLIVEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6140,7 +6140,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "MARCOS ANTONIO MENDES DE OLIVEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6155,7 +6155,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "MARIA LUISA DENADAI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6170,7 +6170,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "POLYANA RODRIGUES MEDEIROS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6185,7 +6185,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "RALPH ALVES FERREIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6200,7 +6200,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "NIKOLAS NASCIMENTO AGUILAR",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6215,7 +6215,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "SERGIO RONALDO SALES VEIGA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6230,7 +6230,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "SHEILA VIVIANE PEREIRA SANTOS DE SOUZA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6245,7 +6245,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "MATHEUS SANTOS LOPES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6260,7 +6260,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "MARINA TERESA VELOSO DOS SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6275,7 +6275,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "DIEGO EXPERDIAO DOS SANTOS",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -6290,7 +6290,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-16",
+      "data": "2026-02-16 00:00:00",
       "cliente": "RAFAEL ALEXANDRE DA SILVA ROBERTO",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -6305,7 +6305,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-17",
+      "data": "2026-02-17 00:00:00",
       "cliente": "MARCOS TIAGO MARTINS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6320,7 +6320,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-17",
+      "data": "2026-02-17 00:00:00",
       "cliente": "JOSE MARIO FERREIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6335,7 +6335,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-17",
+      "data": "2026-02-17 00:00:00",
       "cliente": "BRUNA ROSA DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6350,7 +6350,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-17",
+      "data": "2026-02-17 00:00:00",
       "cliente": "PAULA ROBERTA LEMES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6365,7 +6365,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-17",
+      "data": "2026-02-17 00:00:00",
       "cliente": "DIEGO TRIZOTTE FERREIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6380,7 +6380,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-18",
+      "data": "2026-02-18 00:00:00",
       "cliente": "JOSIEL ALEXANDRE DE OLIVEIRA SOUZA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6395,7 +6395,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-18",
+      "data": "2026-02-18 00:00:00",
       "cliente": "PAULA OTOSHI DE ALMEIDA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6410,7 +6410,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-18",
+      "data": "2026-02-18 00:00:00",
       "cliente": "PRICILA SANGI NEVES TECO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6425,7 +6425,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-18",
+      "data": "2026-02-18 00:00:00",
       "cliente": "MARCOS PAULO DA SILVA NASCIMENTO SALOMAO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6440,7 +6440,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-18",
+      "data": "2026-02-18 00:00:00",
       "cliente": "THAINA CRISTINA BENEDITO BARBOSA FRANÇA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6455,7 +6455,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-18",
+      "data": "2026-02-18 00:00:00",
       "cliente": "ROSILEIDE DA COSTA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6470,7 +6470,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-20",
+      "data": "2026-02-20 00:00:00",
       "cliente": "TATIANA GABRIEL SANTANA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6485,7 +6485,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-21",
+      "data": "2026-02-21 00:00:00",
       "cliente": "HAYDEE NUNES LOPES MARQUES DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6500,7 +6500,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-21",
+      "data": "2026-02-21 00:00:00",
       "cliente": "YGOR BRAZ DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6515,7 +6515,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-20",
+      "data": "2026-02-20 00:00:00",
       "cliente": "DALMAR ALVES MORENO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6530,7 +6530,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-20",
+      "data": "2026-02-20 00:00:00",
       "cliente": "ARTHUR VICENZO TONIOLO CONCEICAO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO / RCI/CRONOGRAMA DE USO.",
@@ -6545,7 +6545,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-20",
+      "data": "2026-02-20 00:00:00",
       "cliente": "PAULA SILVERIO TONIOLO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO / RCI/CRONOGRAMA DE USO.",
@@ -6560,7 +6560,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-20",
+      "data": "2026-02-20 00:00:00",
       "cliente": "ELIANE DOS REIS PAINS DE SOUZA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6575,7 +6575,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-20",
+      "data": "2026-02-20 00:00:00",
       "cliente": "KAUA MAGALHAES DE SOUZA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6590,7 +6590,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-20",
+      "data": "2026-02-20 00:00:00",
       "cliente": "ANDRE GARRIDO FARIAS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6605,7 +6605,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-21",
+      "data": "2026-02-21 00:00:00",
       "cliente": "ANDRE DA SILVA SANTOS",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO / INCC / IGPM / INTERVAL",
@@ -6620,7 +6620,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-21",
+      "data": "2026-02-21 00:00:00",
       "cliente": "JEFFERSON CAMPOS ALCANTARA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6635,7 +6635,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-21",
+      "data": "2026-02-21 00:00:00",
       "cliente": "KEVIN MACAULAY SILVA FONSECA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6650,7 +6650,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-21",
+      "data": "2026-02-21 00:00:00",
       "cliente": "EDER DE MELO CARLETTI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -6665,7 +6665,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-22",
+      "data": "2026-02-22 00:00:00",
       "cliente": "ALAN HENRIQUE DE ASSIS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6680,7 +6680,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-22",
+      "data": "2026-02-22 00:00:00",
       "cliente": "MARCELO GUERREIRO AZANHA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6695,7 +6695,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-22",
+      "data": "2026-02-22 00:00:00",
       "cliente": "THIAGO LAMELA Y LAMELA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CRONOGRAMA DE USO/RCI",
@@ -6710,7 +6710,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-22",
+      "data": "2026-02-22 00:00:00",
       "cliente": "DANIEL AVELINO DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6725,7 +6725,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-22",
+      "data": "2026-02-22 00:00:00",
       "cliente": "FABIOLA SANTOS ALVES DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6740,7 +6740,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-23",
+      "data": "2026-02-23 00:00:00",
       "cliente": "JULYENNE TAYSA FIGUEIREDO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6755,7 +6755,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-24",
+      "data": "2026-02-24 00:00:00",
       "cliente": "ROGERIO BARADEL",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6770,7 +6770,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-24",
+      "data": "2026-02-24 00:00:00",
       "cliente": "LUCIANO LIMA ZIMBON",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6785,7 +6785,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-24",
+      "data": "2026-02-24 00:00:00",
       "cliente": "ERICA RODRIGUES DO CARMO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6800,7 +6800,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-23",
+      "data": "2026-02-23 00:00:00",
       "cliente": "PAULO SERGIO DE OLIVEIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6815,7 +6815,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-27",
+      "data": "2026-02-27 00:00:00",
       "cliente": "JOAO LUCAS MARTINS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO / RCI",
@@ -6830,7 +6830,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-27",
+      "data": "2026-02-27 00:00:00",
       "cliente": "MATEUS NASCIMENTO SANTANA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6845,7 +6845,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-28",
+      "data": "2026-02-28 00:00:00",
       "cliente": "JOSIMAR PEREIRA DOS ANJOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO",
@@ -6860,7 +6860,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-28",
+      "data": "2026-02-28 00:00:00",
       "cliente": "SAMUEL DE SOUZA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6875,7 +6875,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "SAMUEL DE JESUS SANTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CRONOGRAMA DE USO,ESCRITURAÇÃO",
@@ -6890,7 +6890,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-01",
+      "data": "2026-03-01 00:00:00",
       "cliente": "MAURICIO ALMEIDA DA CUNHA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -6905,7 +6905,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-25",
+      "data": "2026-02-25 00:00:00",
       "cliente": "MARCOS INÁCIO DE OLIVERA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6920,7 +6920,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-02",
+      "data": "2026-03-02 00:00:00",
       "cliente": "JÚLIA BETINI BOLOGNESI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6935,7 +6935,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-02",
+      "data": "2026-03-02 00:00:00",
       "cliente": "ROBERTO DA SILVA NETO",
       "empreendimento": "São Pedro Resort",
       "duvida": "POOL DE LOCAÇÃO / IGPM, RCI, REGISTRO DO IMÓVEL , TÍTULO DO PARQUE",
@@ -6950,7 +6950,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-03",
+      "data": "2026-03-03 00:00:00",
       "cliente": "DOUGLAS CAMPOS ROSSI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6965,7 +6965,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-08-03",
+      "data": "2026-08-03 00:00:00",
       "cliente": "DANIELE JARDIM DE JESUS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6980,7 +6980,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-08-03",
+      "data": "2026-08-03 00:00:00",
       "cliente": "FERNANDO VIANNA GUIMARÃES COELHO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -6995,7 +6995,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-10",
+      "data": "2026-03-10 00:00:00",
       "cliente": "GABRIELA FRAGOSO DE MEDEIROS RIBEIRO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7010,7 +7010,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-12",
+      "data": "2026-03-12 00:00:00",
       "cliente": "DEISE CRISTINA DE SOUZA ALMEIDA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7025,7 +7025,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-13",
+      "data": "2026-03-13 00:00:00",
       "cliente": "BRUNO PUELLO DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7040,7 +7040,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "RITA DE CÁSSIA DE JESUS LIMA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7055,7 +7055,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "KLEBER OLIVEIRA DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7070,7 +7070,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "JÉSSICA TELES DE BARROS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7085,7 +7085,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-14",
+      "data": "2026-02-14 00:00:00",
       "cliente": "CAMILA ROMEIRO RODRIGUES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7100,7 +7100,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-15",
+      "data": "2026-03-15 00:00:00",
       "cliente": "MARIANA MARQUES NOGUEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7115,7 +7115,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-16",
+      "data": "2026-03-16 00:00:00",
       "cliente": "TATIANA ROSSAFA PAULETTI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7130,7 +7130,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-19",
+      "data": "2026-03-19 00:00:00",
       "cliente": "RODRIGO DE JESUS DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7145,7 +7145,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-19",
+      "data": "2026-03-19 00:00:00",
       "cliente": "JONATHAN WILLIAM DE MELO GOMES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7160,7 +7160,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-19",
+      "data": "2026-03-19 00:00:00",
       "cliente": "REGINALDO BELCHIOR BARBIERI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7175,7 +7175,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-19",
+      "data": "2026-03-19 00:00:00",
       "cliente": "NEWTON FERREIRA DE LIMA FILHO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7190,7 +7190,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-19",
+      "data": "2026-03-19 00:00:00",
       "cliente": "GISELE RODRIGUES SIMOES GALHATO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7205,7 +7205,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-19",
+      "data": "2026-03-19 00:00:00",
       "cliente": "RICARDO APARECIDO DE PAULA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7220,7 +7220,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-20",
+      "data": "2026-03-20 00:00:00",
       "cliente": "TATIANA MOREIRA MUNIZ NUNES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7235,7 +7235,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-20",
+      "data": "2026-03-20 00:00:00",
       "cliente": "ANDERSON DE SOUZA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7250,7 +7250,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-20",
+      "data": "2026-03-20 00:00:00",
       "cliente": "CAROLINA DUARTE GATTO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7265,7 +7265,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-20",
+      "data": "2026-03-20 00:00:00",
       "cliente": "CARINA CARVALHO DO NASCIMENTO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -7280,7 +7280,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-20",
+      "data": "2026-03-20 00:00:00",
       "cliente": "HORACIO ALVES DE FIGUEREDO FILHO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7295,7 +7295,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-21",
+      "data": "2026-03-21 00:00:00",
       "cliente": "MARIA ROSEANE CARVALHO MARTINS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7310,7 +7310,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-21",
+      "data": "2026-03-21 00:00:00",
       "cliente": "ISABELLA DIAS VIEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7325,7 +7325,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-21",
+      "data": "2026-03-21 00:00:00",
       "cliente": "MOACIR OLIVEIRA DO SACRAMENTO",
       "empreendimento": "São Pedro Resort",
       "duvida": "TODOS OS ITENS DO CHECK-LIST",
@@ -7340,7 +7340,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-22",
+      "data": "2026-03-22 00:00:00",
       "cliente": "BRUNA CRISTINA DOS REIS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7355,7 +7355,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-22",
+      "data": "2026-03-22 00:00:00",
       "cliente": "FRANCIELE SILVA CONCEIÇÃO",
       "empreendimento": "São Pedro Resort",
       "duvida": "CANCELAMENTO",
@@ -7370,7 +7370,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-21",
+      "data": "2026-03-21 00:00:00",
       "cliente": "ERIJUNHO ALMEIDA DOS SANTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -7385,7 +7385,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-21",
+      "data": "2026-03-21 00:00:00",
       "cliente": "NICOLAS VASCONCELOS PETRI SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7400,7 +7400,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-21",
+      "data": "2026-03-21 00:00:00",
       "cliente": "LUANA DAYANE LIMA PADILHA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CRONOGRAMA DE USO",
@@ -7415,7 +7415,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-21",
+      "data": "2026-03-21 00:00:00",
       "cliente": "JAQUELINE ALESSANDRA MARSON DE ALMEIDA",
       "empreendimento": "Canastra",
       "duvida": "INCC",
@@ -7430,7 +7430,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-21",
+      "data": "2026-03-21 00:00:00",
       "cliente": "FABIO ARAUJO DE FREITAS",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -7445,7 +7445,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-22",
+      "data": "2026-03-22 00:00:00",
       "cliente": "THAYNA HENRIQUE DE SOUZA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -7460,7 +7460,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-22",
+      "data": "2026-03-22 00:00:00",
       "cliente": "CRISTIANE ROMANO MACHADO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CRONOGRAMA DE USO",
@@ -7475,7 +7475,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-22",
+      "data": "2026-03-22 00:00:00",
       "cliente": "MAICON ROGERIO DA ROCHA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -7490,7 +7490,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-22",
+      "data": "2026-03-22 00:00:00",
       "cliente": "NATALIA MEDEIROS TEIXEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7505,7 +7505,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-22",
+      "data": "2026-03-22 00:00:00",
       "cliente": "GABRIELA MARTINS DE CARVALHO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7520,7 +7520,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-22",
+      "data": "2026-03-22 00:00:00",
       "cliente": "ZENAIDE SOARES DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7535,7 +7535,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-22",
+      "data": "2026-03-22 00:00:00",
       "cliente": "RAFAEL CARVALHAES ORTIZ",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7550,7 +7550,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-23",
+      "data": "2026-03-23 00:00:00",
       "cliente": "ISABELA MARIA DA SILVA BICUDO HENRIQUE",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO",
@@ -7565,7 +7565,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-23",
+      "data": "2026-03-23 00:00:00",
       "cliente": "KATIA CRISTINA DE ALMEIDA SERAFIM",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CASAL HUMILDE NÃO CONSEGUIA COMPREENDER O QUE ESTARIA COMPRANDO",
@@ -7580,7 +7580,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-23",
+      "data": "2026-03-23 00:00:00",
       "cliente": "LUCAS APARECIDO DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7595,7 +7595,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-23",
+      "data": "2026-03-23 00:00:00",
       "cliente": "LEONARDO HENRIQUE OMOTO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7610,7 +7610,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-24",
+      "data": "2026-03-24 00:00:00",
       "cliente": "VIVIANE CRISTINA NAVARRO SOMENSI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7625,7 +7625,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-24",
+      "data": "2026-03-24 00:00:00",
       "cliente": "PAULO RICARDO NUNES MARTINS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7640,7 +7640,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-24",
+      "data": "2026-03-24 00:00:00",
       "cliente": "PATRÍCIA DE SOUZA MURBACK",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7655,7 +7655,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-26",
+      "data": "2026-03-26 00:00:00",
       "cliente": "ARJUNA NUDI PERIN",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -7670,7 +7670,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-26",
+      "data": "2026-03-26 00:00:00",
       "cliente": "LAUDICEIA PROENCIA PERIN",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -7685,7 +7685,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-26",
+      "data": "2026-03-26 00:00:00",
       "cliente": "FABIO HENRIQUE BICUDO DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7700,7 +7700,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-26",
+      "data": "2026-03-26 00:00:00",
       "cliente": "SIMONE SENA SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7715,7 +7715,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-27",
+      "data": "2026-03-27 00:00:00",
       "cliente": "GUSTAVO VILAS BOAS DE SOUZA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7730,7 +7730,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-27",
+      "data": "2026-03-27 00:00:00",
       "cliente": "GABRIELE MEDEIROS FLEMING ZANAO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7745,7 +7745,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-27",
+      "data": "2026-03-27 00:00:00",
       "cliente": "ELON MUNIS DE LIMA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7760,7 +7760,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-27",
+      "data": "2026-03-27 00:00:00",
       "cliente": "LAIS SARTORI SANTIAGO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -7775,7 +7775,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-27",
+      "data": "2026-03-27 00:00:00",
       "cliente": "TEREZA CRISTINA DE CARVALHO CANCELLIER",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7790,7 +7790,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-28",
+      "data": "2026-03-28 00:00:00",
       "cliente": "GABRIEL LAMOUNIER GONZAGA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7805,7 +7805,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-28",
+      "data": "2026-03-28 00:00:00",
       "cliente": "ALINE LIDIANA MATTOS BORGES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7820,7 +7820,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-28",
+      "data": "2026-03-28 00:00:00",
       "cliente": "JULIANA DA SILVA SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7835,7 +7835,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-28",
+      "data": "2026-03-28 00:00:00",
       "cliente": "ERIKA FERREIRA ALVES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7850,7 +7850,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-28",
+      "data": "2026-03-28 00:00:00",
       "cliente": "PAULO FRANCISCO TAVARES DE CASTRO PEREIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "IGPM",
@@ -7865,7 +7865,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-28",
+      "data": "2026-03-28 00:00:00",
       "cliente": "MATEUS ALVES SOARES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7880,7 +7880,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-28",
+      "data": "2026-03-28 00:00:00",
       "cliente": "MARIA ESTELA DA ROCHA SOARES BRITO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7895,7 +7895,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-28",
+      "data": "2026-03-28 00:00:00",
       "cliente": "VANIA MARA DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "IGPM / CRONOGRAMA DE UTILIZAÇÃO",
@@ -7910,7 +7910,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-28",
+      "data": "2026-03-28 00:00:00",
       "cliente": "JANAINA ALVES DE ANDRADE PERES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7925,7 +7925,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-28",
+      "data": "2026-03-28 00:00:00",
       "cliente": "MILENA PEREIRA INACIO",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO / CRONOGRAMA DE USO /",
@@ -7940,7 +7940,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-28",
+      "data": "2026-03-28 00:00:00",
       "cliente": "ANDERSON CUSTODIO DOS SANTOS LEAL",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -7955,7 +7955,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-30",
+      "data": "2026-03-30 00:00:00",
       "cliente": "RAFAELA EVELYN VERTU DE ARAUJO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -7970,7 +7970,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-30",
+      "data": "2026-03-30 00:00:00",
       "cliente": "JEFFERSON RODRIGO PINHO DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "IGPM",
@@ -7985,7 +7985,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-30",
+      "data": "2026-03-30 00:00:00",
       "cliente": "ALINE DOS SANTOS ALMEIDA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -8000,7 +8000,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-03",
+      "data": "2026-04-03 00:00:00",
       "cliente": "THIAGO SOUZA OLIVEIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8015,7 +8015,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-03",
+      "data": "2026-04-03 00:00:00",
       "cliente": "WAGNER SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8030,7 +8030,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-03",
+      "data": "2026-04-03 00:00:00",
       "cliente": "VINICIUS DO CARMO CARDOSO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8045,7 +8045,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-03",
+      "data": "2026-04-03 00:00:00",
       "cliente": "ELIAS NOGUEIRA MAUCH",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -8060,7 +8060,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-03",
+      "data": "2026-04-03 00:00:00",
       "cliente": "ALLISON DE BRITO TAVELA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8075,7 +8075,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-03",
+      "data": "2026-04-03 00:00:00",
       "cliente": "ALEXANDRE ANDRE AVELINO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8090,7 +8090,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-04",
+      "data": "2026-04-04 00:00:00",
       "cliente": "LUCIANO IZIDIO DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8105,7 +8105,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-04",
+      "data": "2026-04-04 00:00:00",
       "cliente": "STEPHANIE KAZU BRANDAO MIYOSHI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -8120,7 +8120,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-04",
+      "data": "2026-04-04 00:00:00",
       "cliente": "DOUGLAS INACIO MARQUES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8135,7 +8135,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-04",
+      "data": "2026-04-04 00:00:00",
       "cliente": "WILLIAM JEEVES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8150,7 +8150,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-04",
+      "data": "2026-04-04 00:00:00",
       "cliente": "GABRIEL GONELLI LONGO DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8165,7 +8165,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-04",
+      "data": "2026-04-04 00:00:00",
       "cliente": "CLAUDIO CAVALMORETTI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8180,7 +8180,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-05",
+      "data": "2026-04-05 00:00:00",
       "cliente": "MARIA EDUARDA CRISTINA SAMPAIO EVIDIO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8195,7 +8195,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-05",
+      "data": "2026-04-05 00:00:00",
       "cliente": "MARCOS FELIPE COLLIN",
       "empreendimento": "São Pedro Resort",
       "duvida": "POOL DE LOCAÇÃO",
@@ -8210,7 +8210,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-05",
+      "data": "2026-04-05 00:00:00",
       "cliente": "ELIAKIN DE AGUIAR ALVES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8225,7 +8225,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-05",
+      "data": "2026-04-05 00:00:00",
       "cliente": "FERNANDO CAVALCANTE FELIZER",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8240,7 +8240,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-05",
+      "data": "2026-04-05 00:00:00",
       "cliente": "FLAVIA REGINA AUGUSTO DE MORAES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -8255,7 +8255,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-05",
+      "data": "2026-04-05 00:00:00",
       "cliente": "CELIA CRISTINA PEREIRA GOMES COELHO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -8270,7 +8270,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2025-04-06",
+      "data": "2025-04-06 00:00:00",
       "cliente": "MAICKY JOSÉ MIGUEL",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8285,7 +8285,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-07",
+      "data": "2026-04-07 00:00:00",
       "cliente": "LILIANE RODRIGUES COUTINHO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8300,7 +8300,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-06",
+      "data": "2026-02-06 00:00:00",
       "cliente": "CARLOS JOSE DE LIMA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8315,7 +8315,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-06",
+      "data": "2026-02-06 00:00:00",
       "cliente": "KELI CRISTINA AMARO SECUNDINO",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO / INCC / IGPM /",
@@ -8330,7 +8330,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-08-04",
+      "data": "2026-08-04 00:00:00",
       "cliente": "RAMON DOS SANTOS ROCHA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8345,7 +8345,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-08-03",
+      "data": "2026-08-03 00:00:00",
       "cliente": "ANNE CAROLINE ARAUJO DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8360,7 +8360,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-09",
+      "data": "2026-04-09 00:00:00",
       "cliente": "ROSEMARY DIAS VIEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "POOL DE LOCAÇÃO",
@@ -8375,7 +8375,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-09",
+      "data": "2026-04-09 00:00:00",
       "cliente": "BRUNA STEPHANI RODRIGUES NUNES FERREIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8390,7 +8390,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-09",
+      "data": "2026-04-09 00:00:00",
       "cliente": "MARCOS FRANCISCO BUENO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8405,7 +8405,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-09",
+      "data": "2026-04-09 00:00:00",
       "cliente": "MARCOS EDUARDO RODRIGUES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "IGPM",
@@ -8420,7 +8420,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-10-04",
+      "data": "2026-10-04 00:00:00",
       "cliente": "ANDRÉ RICARDO SILVEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8435,7 +8435,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-10-04",
+      "data": "2026-10-04 00:00:00",
       "cliente": "YASMIN CECCATO DE LIMA",
       "empreendimento": "São Pedro Resort",
       "duvida": "POOL DE LOCAÇÃO / CANCELAMENTO",
@@ -8450,7 +8450,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-10-04",
+      "data": "2026-10-04 00:00:00",
       "cliente": "SHEILA MARIA FIGUEIRA JACINTHO DA CRUZ",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8465,7 +8465,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-10-04",
+      "data": "2026-10-04 00:00:00",
       "cliente": "GABRIELA ALVES PENTEADO DOS SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8480,7 +8480,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-11",
+      "data": "2026-04-11 00:00:00",
       "cliente": "NATÁLIA FERREIRA SANTOS DENOBI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8495,7 +8495,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-11",
+      "data": "2026-04-11 00:00:00",
       "cliente": "LUIS GUSTAVO TEIXEIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8510,7 +8510,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-11",
+      "data": "2026-04-11 00:00:00",
       "cliente": "MARCELO RODRIGO DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8525,7 +8525,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-11",
+      "data": "2026-04-11 00:00:00",
       "cliente": "MARCIA REGINA ALENCAR ALVES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -8540,7 +8540,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-11",
+      "data": "2026-04-11 00:00:00",
       "cliente": "TAMIRES DA SILVA MARQUES",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -8555,7 +8555,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-11",
+      "data": "2026-04-11 00:00:00",
       "cliente": "MARIA EDUARDA ALEXANDRE FERREIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -8570,7 +8570,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-13",
+      "data": "2026-04-13 00:00:00",
       "cliente": "ESTER APARECIDA DE OLIVEIRA ALMEIDA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8585,7 +8585,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-13",
+      "data": "2026-04-13 00:00:00",
       "cliente": "DOUGLAS RODRIGUES DE FREITAS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -8600,7 +8600,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-13",
+      "data": "2026-04-13 00:00:00",
       "cliente": "JEOVANE CELINO DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO / INTERVAL",
@@ -8615,7 +8615,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-15",
+      "data": "2026-04-15 00:00:00",
       "cliente": "JULIANA CRISTINA CROTE PINTO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8630,7 +8630,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-16",
+      "data": "2026-04-16 00:00:00",
       "cliente": "TEREZINHA ALEXANDRINA DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "POOL DE LOCAÇÃO",
@@ -8645,7 +8645,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-17",
+      "data": "2026-04-17 00:00:00",
       "cliente": "JOSIMAR DO NASCIMENTO GUILHERME",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8660,7 +8660,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-15",
+      "data": "2026-04-15 00:00:00",
       "cliente": "HELVES MARCELINO REIMBERG DE ANDRADE",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO",
@@ -8675,7 +8675,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "DANILO DE OLIVEIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -8690,7 +8690,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "MICHEL CORREA DE OLIVEIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -8705,7 +8705,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "AMANDA SILVA BARICHELLO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -8720,7 +8720,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "LENON PEREIRA FERNANDES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO / IGPM",
@@ -8735,7 +8735,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "LUIZ FERNANDO GHIRAU",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8750,7 +8750,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "ANDREZA AZEVEDO AMARAL",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8765,7 +8765,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "KELVIN CREPALDI GUERRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8780,7 +8780,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "WENDEL VALDIR DE PONTES BERBEL",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8795,7 +8795,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "GABRIELA FERNANDES ALVES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8810,7 +8810,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "DAVID DOS SANTOS TEIXEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8825,7 +8825,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "JOYCE DIAS DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8840,7 +8840,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "CARLOS BRUNO HOZANO NORONHA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8855,7 +8855,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "LUCAS LIMA RODRIGUES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8870,7 +8870,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "CLEUZA SANTOS SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8885,7 +8885,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "EDNALDO AMARO DE LIMA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8900,7 +8900,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "ANDREA REGINA FAVA MONTRAZIO",
       "empreendimento": "São Pedro Resort",
       "duvida": "CANCELAMENTO",
@@ -8915,7 +8915,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "BRUNNO LUIZ BARSSOTTINI PAGANELLI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8930,7 +8930,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "THIAGO DE SALES",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8945,7 +8945,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "NIVALDO FRANCISCO DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8960,7 +8960,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "RONALDO DOS SANTOS SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -8975,7 +8975,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "LUCAS ROBERTO DONO FLORIANO",
       "empreendimento": "São Pedro Resort",
       "duvida": "IGPM +0,5%",
@@ -8990,7 +8990,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "DENISE APARECIDA DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "VALOR DE INTERCAMBIO",
@@ -9005,7 +9005,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "JANAINA DE PAULA CARVALHO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9020,7 +9020,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "ALINE CRISTINA TOLEDO DE OLIVEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9035,7 +9035,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "DAIANA FERRAZ",
       "empreendimento": "São Pedro Resort",
       "duvida": "TAXA CONDOMINIAL / IGPM + 0,5%",
@@ -9050,7 +9050,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "GUILHERME JUNIO BESSA DE ALMEIDA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9065,7 +9065,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "EDERALDO SANTOS DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9080,7 +9080,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "JESSE DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "POOL DE LOCAÇÃO",
@@ -9095,7 +9095,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "JOAO RODRIGO DE CASTRO",
       "empreendimento": "São Pedro Resort",
       "duvida": "DIREITO DE ARREPENDIMENTO",
@@ -9110,7 +9110,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "WILSON FRANCISCO DE SOUZA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9125,7 +9125,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "THIAGO PEREIRA DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9140,7 +9140,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "NATALIA DOS SANTOS FERREIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9155,7 +9155,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "TATIANA RODRIGUES LIMA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9170,7 +9170,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-21",
+      "data": "2026-04-21 00:00:00",
       "cliente": "VIVIAN OLIVEIRA DOS SANTOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9185,7 +9185,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-21",
+      "data": "2026-04-21 00:00:00",
       "cliente": "ALINE MICHELE BALDUINO ANTONIASSI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9200,7 +9200,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-21",
+      "data": "2026-04-21 00:00:00",
       "cliente": "CRISTINA KIYOMI TOTAKI FERREIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9215,7 +9215,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-23",
+      "data": "2026-04-23 00:00:00",
       "cliente": "ALINE MARIA DE MELO CAMARGO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9230,7 +9230,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-23",
+      "data": "2026-04-23 00:00:00",
       "cliente": "MARIA LUCIA DE FARIAS BULBOW",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9245,7 +9245,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-24",
+      "data": "2026-04-24 00:00:00",
       "cliente": "RAFAEL GUILHERME SANTANA CIGANO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9260,7 +9260,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-24",
+      "data": "2026-04-24 00:00:00",
       "cliente": "ALINE AP. ARAÚJO DE RESENDE",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9275,7 +9275,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-24",
+      "data": "2026-04-24 00:00:00",
       "cliente": "LETICIA CRISTINA MERONHA",
       "empreendimento": "Canastra",
       "duvida": "ITEM 7 E 9 PRAZO PARA UTILIZAÇÃO",
@@ -9290,7 +9290,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "JOSEFA KAROLINE SILVA OLIVEIRA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9305,7 +9305,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "KATIA CRISTIANE FREITAS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9320,7 +9320,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "LEANDRO PERERIA RAMOS",
       "empreendimento": "São Pedro Resort",
       "duvida": "IGPM +0,5%",
@@ -9335,7 +9335,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "JANAINA NUNES SANFELISSE",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9350,7 +9350,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-24",
+      "data": "2026-04-24 00:00:00",
       "cliente": "RUAN VIEIRA DA GAMA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9365,7 +9365,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-24",
+      "data": "2026-04-24 00:00:00",
       "cliente": "ELTON FRANCA PEDROSO",
       "empreendimento": "Canastra",
       "duvida": "RENOVAÇÃO DA INTERVAL",
@@ -9380,7 +9380,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-24",
+      "data": "2026-04-24 00:00:00",
       "cliente": "ANA PAULA HOLANDA DE ALBUQUERQUE",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9395,7 +9395,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "JEFFERSON DANIEL DE LIMA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9410,7 +9410,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-25",
+      "data": "2026-04-25 00:00:00",
       "cliente": "MAYCON ANDERSON PEREIRA DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SE PODE VENDER DEPOIS",
@@ -9425,7 +9425,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-25",
+      "data": "2026-04-25 00:00:00",
       "cliente": "PATRICIA DE OLIVEIRA ASBACH",
       "empreendimento": "Canastra",
       "duvida": "CORREÇÃO DO INCC",
@@ -9440,7 +9440,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-18",
+      "data": "2026-04-18 00:00:00",
       "cliente": "INGRID STEPHANIE ANTUNES DE LIMA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9455,7 +9455,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "VANESSA RODRIGUES JONAS VIEIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9470,7 +9470,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "ALEX DE GOIS SANTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9485,7 +9485,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "BEATRIZ APARECIDA DE JESUS MILANI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9500,7 +9500,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "PAULO ROGERIO FIORIO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9515,7 +9515,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-19",
+      "data": "2026-04-19 00:00:00",
       "cliente": "RAPHAEL FERREIRA PELLECCHIA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO /  IGPM / CRONOGRAMA DE USO",
@@ -9530,7 +9530,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "DANILO CORREIA RIBEIRO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "IGPM",
@@ -9545,7 +9545,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "CAIO LEANDRO PADUA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "IGPM",
@@ -9560,7 +9560,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "MARCO AURELIO GONCALVES DOS REIS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9575,7 +9575,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "RAYSSA KUSSAMA DE OLIVEIRA STREB",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9590,7 +9590,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "ADEMAR MORETTI",
       "empreendimento": "São Pedro Thermas",
       "duvida": "POOL DE LOCAÇÃO",
@@ -9605,7 +9605,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "WAGNER DE CASTRO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9620,7 +9620,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-20",
+      "data": "2026-04-20 00:00:00",
       "cliente": "FABIANO LUZ RODRIGUES",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9635,7 +9635,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-21",
+      "data": "2026-04-21 00:00:00",
       "cliente": "JADIELSON LIRA DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9650,7 +9650,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-21",
+      "data": "2026-04-21 00:00:00",
       "cliente": "JOAO CARLOS DOS SANTOS",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9665,7 +9665,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-21",
+      "data": "2026-04-21 00:00:00",
       "cliente": "CLOVIS NUNES CIQUEIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9680,7 +9680,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-25",
+      "data": "2026-04-25 00:00:00",
       "cliente": "ANA BEATRIZ DE ARAÚJO JOSÉ MARIA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9695,7 +9695,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-25",
+      "data": "2026-04-25 00:00:00",
       "cliente": "RONAL DO SANTOS COSTA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9710,7 +9710,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-25",
+      "data": "2026-04-25 00:00:00",
       "cliente": "ANNA LUIZA DE ALBUQUERQUE GULLO",
       "empreendimento": "Canastra",
       "duvida": "ITEM 9 PRAZO PARA AFILIAÇÃO À INTERVAL",
@@ -9725,7 +9725,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-21",
+      "data": "2026-04-21 00:00:00",
       "cliente": "MIRIAM NUNES DA CRUZ",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DUVIDA",
@@ -9740,7 +9740,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-24",
+      "data": "2026-04-24 00:00:00",
       "cliente": "DANILO FERRARI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9755,7 +9755,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-24",
+      "data": "2026-04-24 00:00:00",
       "cliente": "CLEBER CAMARGO LEME",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9770,7 +9770,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-24",
+      "data": "2026-04-24 00:00:00",
       "cliente": "RODRIGO HESPANHOLETO BOGO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9785,7 +9785,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-25",
+      "data": "2026-04-25 00:00:00",
       "cliente": "LEONARDO CESAR VIEIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9800,7 +9800,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-25",
+      "data": "2026-04-25 00:00:00",
       "cliente": "JOSE LUIZ RODRIGUES DE FREITAS JUNIOR",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9815,7 +9815,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-25",
+      "data": "2026-04-25 00:00:00",
       "cliente": "JAYME ROBERT TEIXEIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9830,7 +9830,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-25",
+      "data": "2026-04-25 00:00:00",
       "cliente": "ALEXANDRE ANDREAZI MOREIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9845,7 +9845,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-26",
+      "data": "2026-04-26 00:00:00",
       "cliente": "JOAO JORGE DA SILVA NETO",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -9860,7 +9860,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-26",
+      "data": "2026-04-26 00:00:00",
       "cliente": "TALITA PULIANI DO AMARAL",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9875,7 +9875,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-26",
+      "data": "2026-04-26 00:00:00",
       "cliente": "JESSICA OLIVEIRA CAMARGO",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -9890,7 +9890,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-26",
+      "data": "2026-04-26 00:00:00",
       "cliente": "ANA PAULA DE MATOS MOURATO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9905,7 +9905,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-04-26",
+      "data": "2026-04-26 00:00:00",
       "cliente": "JANAINA VENANCIO DE SOUZA ZUBER",
       "empreendimento": "Canastra",
       "duvida": "CORREÇÃO DO INCC/IGPM /  RENOVAÇÃO INTERVAL / INTECÂMBIOS",
@@ -9920,7 +9920,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-27",
+      "data": "2026-04-27 00:00:00",
       "cliente": "ISAAC BRANDAO DA COSTA COSTA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9935,7 +9935,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-27",
+      "data": "2026-04-27 00:00:00",
       "cliente": "CAMILA AMANCIO RANIERI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9950,7 +9950,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-04-27",
+      "data": "2026-04-27 00:00:00",
       "cliente": "MIRIA PEREIRA DE LIMA FIGUEIREDO",
       "empreendimento": "Canastra",
       "duvida": "POOL DE LOCAÇÃO",
@@ -9965,7 +9965,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-27",
+      "data": "2026-04-27 00:00:00",
       "cliente": "PAULO HENRIQUE DE LIMA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DUVIDA",
@@ -9980,7 +9980,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-01-05",
+      "data": "2026-01-05 00:00:00",
       "cliente": "JULIANA CRISTINA DE SOUZA TROMBINI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -9995,7 +9995,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-01-05",
+      "data": "2026-01-05 00:00:00",
       "cliente": "WANDERLANY SERLEN DOS SANTOS FERREIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDA",
@@ -10010,7 +10010,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-05",
+      "data": "2026-01-05 00:00:00",
       "cliente": "THAMYRES YVONIKA CASTRO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10025,7 +10025,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-05",
+      "data": "2026-01-05 00:00:00",
       "cliente": "GABRIELA LINO CORDEIRO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10040,7 +10040,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-05",
+      "data": "2026-01-05 00:00:00",
       "cliente": "ROBSON DE THOMAZO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10055,7 +10055,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-05",
+      "data": "2026-01-05 00:00:00",
       "cliente": "ROGERIO CAMPANHOLO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10070,7 +10070,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-01-05",
+      "data": "2026-01-05 00:00:00",
       "cliente": "CARLOS ALBERTO PIACENTI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10085,7 +10085,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-05",
+      "data": "2026-01-05 00:00:00",
       "cliente": "MONALISA DA CONCEICAO CAMANDAROBA",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10100,7 +10100,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-05",
+      "data": "2026-01-05 00:00:00",
       "cliente": "VALERIA APARECIDA DOS SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10115,7 +10115,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-01-05",
+      "data": "2026-01-05 00:00:00",
       "cliente": "DAVI ELIAS DE PAIVA MENDONCA",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10130,7 +10130,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "IRANEIDE ALVES FLORINDO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDAS",
@@ -10145,7 +10145,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "SILVIO ANTONIO SARACO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDAS",
@@ -10160,7 +10160,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "RAFAEL NERES DOS SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDAS",
@@ -10175,7 +10175,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "JOAO SANTANA RIBEIRO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDAS",
@@ -10190,7 +10190,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "SILVIA APARECIDA DE CAMARGO SAKAGUTI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDAS",
@@ -10205,7 +10205,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "SANDRA VALERIA DE OLIVEIRA CACUTO",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDAS",
@@ -10220,7 +10220,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "SANDRA DE OLIVEIRA SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDAS",
@@ -10235,7 +10235,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "MATHEUS PEREIRA MANTOVANI",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDAS",
@@ -10250,7 +10250,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "CARLOS HENRIQUE COSTA",
       "empreendimento": "Canastra",
       "duvida": "SEM DUVIDAS",
@@ -10265,7 +10265,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "JOÃO GONÇALVES DA SILVA JÚNIOR",
       "empreendimento": "São Pedro Resort",
       "duvida": "IGPM",
@@ -10280,7 +10280,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-02-05",
+      "data": "2026-02-05 00:00:00",
       "cliente": "REGINA CELIA CREMPE CASALE",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10295,7 +10295,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-05",
+      "data": "2026-03-05 00:00:00",
       "cliente": "ISABEL MEDEIROS ARAI",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10310,7 +10310,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-05",
+      "data": "2026-03-05 00:00:00",
       "cliente": "LÍGIA DA SILVA DIEGUES DE FREITAS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10325,7 +10325,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-05",
+      "data": "2026-03-05 00:00:00",
       "cliente": "YANCA DA SILVA LANCA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10340,7 +10340,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-05",
+      "data": "2026-03-05 00:00:00",
       "cliente": "JESSICA DE FREITAS",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10355,7 +10355,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-03-05",
+      "data": "2026-03-05 00:00:00",
       "cliente": "EVANDRO ARAUJO",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10370,7 +10370,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-03-05",
+      "data": "2026-03-05 00:00:00",
       "cliente": "RUTE JOANA SERAFIM DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10385,7 +10385,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-03-05",
+      "data": "2026-03-05 00:00:00",
       "cliente": "PAULO ROBERTO DE SOUZA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10400,7 +10400,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-04-05",
+      "data": "2026-04-05 00:00:00",
       "cliente": "JULIANA BONETTI CORREA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10415,7 +10415,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-05",
+      "data": "2026-03-05 00:00:00",
       "cliente": "PATRICIA LEANDRO FERRAREZI",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10430,7 +10430,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-05",
+      "data": "2026-03-05 00:00:00",
       "cliente": "FERNANDO SILVA CARIES",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10445,7 +10445,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-05",
+      "data": "2026-03-05 00:00:00",
       "cliente": "ERIKA MILENA CRIPPA",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10460,7 +10460,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-03-05",
+      "data": "2026-03-05 00:00:00",
       "cliente": "FERNANDO CESAR DE SOUZA CAETANO",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10475,7 +10475,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-07-05",
+      "data": "2026-07-05 00:00:00",
       "cliente": "WEBERTON FERREIRA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DÚVIDAS",
@@ -10490,7 +10490,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-07-05",
+      "data": "2026-07-05 00:00:00",
       "cliente": "JOSIANE GONCALVES EUGENIO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DÚVIDAS",
@@ -10505,7 +10505,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-08-05",
+      "data": "2026-08-05 00:00:00",
       "cliente": "PRISCILA SANTOS DE LIMA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DÚVIDAS",
@@ -10520,7 +10520,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-09-05",
+      "data": "2026-09-05 00:00:00",
       "cliente": "RODRIGO TAVARES DA SILVA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DÚVIDAS",
@@ -10535,7 +10535,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-09-05",
+      "data": "2026-09-05 00:00:00",
       "cliente": "EDVAR GLORIA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DÚVIDAS",
@@ -10550,7 +10550,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-09-05",
+      "data": "2026-09-05 00:00:00",
       "cliente": "CAMILA CAROLINE MONTEIRO ALCANTARA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DÚVIDAS",
@@ -10565,7 +10565,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-09-05",
+      "data": "2026-09-05 00:00:00",
       "cliente": "KARIN MICHEL KFOURI KIWAN",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DÚVIDAS",
@@ -10580,7 +10580,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-10-05",
+      "data": "2026-10-05 00:00:00",
       "cliente": "ELAINE ROSA SANDOVETTI CALADO",
       "empreendimento": "São Pedro Thermas",
       "duvida": "SEM DÚVIDAS",
@@ -10595,7 +10595,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-05-13",
+      "data": "2026-05-13 00:00:00",
       "cliente": "PRISCILA ROCHA DE OLIVEIRA",
       "empreendimento": "São Pedro Thermas",
       "duvida": "CONDOMÍNIO",
@@ -10610,7 +10610,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-05-14",
+      "data": "2026-05-14 00:00:00",
       "cliente": "ERIC SOUZA ALMEIDA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10625,7 +10625,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-08-05",
+      "data": "2026-08-05 00:00:00",
       "cliente": "RAMON APARECIDO DA CRUZ PEDRO",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10640,7 +10640,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-08-05",
+      "data": "2026-08-05 00:00:00",
       "cliente": "FELIPE FAVERO",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10655,7 +10655,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-10-05",
+      "data": "2026-10-05 00:00:00",
       "cliente": "DANIELA DOS SANTOS DE SOUZA",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10670,7 +10670,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-10-05",
+      "data": "2026-10-05 00:00:00",
       "cliente": "LETICIA STEFANI FAGUNDES DE JESUS DA SILVA",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10685,7 +10685,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-05-15",
+      "data": "2026-05-15 00:00:00",
       "cliente": "ALAN CASTRO DE OLIVEIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10700,7 +10700,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-15",
+      "data": "2026-05-15 00:00:00",
       "cliente": "ANTONIO CARLOS ROCHA DA SILVA JUNIOR",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10715,7 +10715,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-15",
+      "data": "2026-05-15 00:00:00",
       "cliente": "MARCOS AUGUSTO RODRIGUES CORREA",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10730,7 +10730,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-16",
+      "data": "2026-05-16 00:00:00",
       "cliente": "BARBARA ALICE JAEGER",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10745,7 +10745,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-16",
+      "data": "2026-05-16 00:00:00",
       "cliente": "ADRIENNE FRANCISCA JAEGER LUDWIG",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10760,7 +10760,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-16",
+      "data": "2026-05-16 00:00:00",
       "cliente": "VIVIANE DA SILVA VICENTE",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10775,7 +10775,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-05-16",
+      "data": "2026-05-16 00:00:00",
       "cliente": "EDJAN CORREA ARAÚJO",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10790,7 +10790,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-05-16",
+      "data": "2026-05-16 00:00:00",
       "cliente": "RUBENS ADELINO CARVALHO DE ALMEIDA PRADO",
       "empreendimento": "São Pedro Resort",
       "duvida": "0.5% SOBRE VARIAÇÃO DE IGPM",
@@ -10805,7 +10805,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-05-16",
+      "data": "2026-05-16 00:00:00",
       "cliente": "CRISTIANE MARIA AUGUSTO DE MORAES",
       "empreendimento": "São Pedro Resort",
       "duvida": "UTILIZAÇÃO DO EMPREENDIMENTO",
@@ -10820,7 +10820,7 @@
     },
     {
       "auditor": "ALESSANDRA",
-      "data": "2026-05-16",
+      "data": "2026-05-16 00:00:00",
       "cliente": "JAILZA FRANCA VIANA DA SILVA",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10835,7 +10835,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-05-16",
+      "data": "2026-05-16 00:00:00",
       "cliente": "ISILDINHA ALVES CREPALDI",
       "empreendimento": "Canastra",
       "duvida": "CORREÇÃO",
@@ -10850,7 +10850,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-05-16",
+      "data": "2026-05-16 00:00:00",
       "cliente": "JOSE ROMILTON DA SILVA SANTOS",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10865,7 +10865,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-05-16",
+      "data": "2026-05-16 00:00:00",
       "cliente": "DAVIDSON FELIPE MARTINS PIRES",
       "empreendimento": "Canastra",
       "duvida": "CONDOMINIO",
@@ -10880,7 +10880,7 @@
     },
     {
       "auditor": "BRENO",
-      "data": "2026-05-16",
+      "data": "2026-05-16 00:00:00",
       "cliente": "ANDRE VIEIRA PONTES",
       "empreendimento": "Essence",
       "duvida": "INTERVAL/POOL DE LOCAÇÃO",
@@ -10895,7 +10895,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-05-17",
+      "data": "2026-05-17 00:00:00",
       "cliente": "EDELSON DA ROCHA FERREIRA",
       "empreendimento": "Canastra",
       "duvida": "SEM DÚVIDAS",
@@ -10910,7 +10910,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-05-17",
+      "data": "2026-05-17 00:00:00",
       "cliente": "MARLIO GUIMARAES SANTOS",
       "empreendimento": "Essence",
       "duvida": "CORREÇÃO DAS PARCELAS",
@@ -10925,7 +10925,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-05-17",
+      "data": "2026-05-17 00:00:00",
       "cliente": "VITOR BALDIN",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
@@ -10940,7 +10940,7 @@
     },
     {
       "auditor": "SAMUEL",
-      "data": "2026-05-17",
+      "data": "2026-05-17 00:00:00",
       "cliente": "WILLIANS KER",
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
