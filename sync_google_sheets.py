@@ -33,7 +33,9 @@ from collections import defaultdict, Counter
 SPREADSHEET_ID = '1rNvoycg3S6PdIyVZtfECVEsBTobJXzeX'
 
 # Nome da aba (sheet) onde ficam os dados de auditores
-SHEET_NAME = 'Plan1'  # ajustar se necessário
+SHEET_NAME = 'Plan1'  # nome da aba (usado só com API key)
+# GID da aba — extraído da URL do Google Sheets
+SHEET_GID = '1550622683'
 
 # Credenciais (arquivo JSON da Service Account Google)
 CREDENTIALS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'credentials.json')
@@ -65,38 +67,18 @@ GOOGLE_API_KEY = 'AIzaSyD-9tSrke72PouQMnMX-a7eZSW0jkFMBWY'
 
 
 def read_google_sheets():
-    """Lê todos os dados da planilha via Sheets API v4 (HTTP puro, sem OAuth)."""
-    import requests as req
-
-    # Sheets API v4 — spreadsheets.values.get
-    url = (
-        f'https://sheets.googleapis.com/v4/spreadsheets/{SPREADSHEET_ID}'
-        f'/values/{SHEET_NAME}?key={GOOGLE_API_KEY}'
-    )
-    print(f'Lendo planilha ID={SPREADSHEET_ID} / aba={SHEET_NAME}...')
-    resp = req.get(url, timeout=30)
-
-    if resp.status_code == 403:
-        # Planilha pode não estar pública — tentar via export CSV (sempre funciona se compartilhada)
-        print('[AVISO] API key bloqueada — tentando export CSV público...')
-        return read_google_sheets_csv()
-
-    resp.raise_for_status()
-    data = resp.json()
-    all_values = data.get('values', [])
-    print(f'{len(all_values)} linhas lidas via Sheets API v4.')
-    return all_values
+    """Lê todos os dados da planilha via export CSV público (sem autenticação)."""
+    return read_google_sheets_csv()
 
 
 def read_google_sheets_csv():
-    """Fallback: lê via export CSV público do Google Sheets (sem API key)."""
+    """Lê via export CSV público do Google Sheets (sem API key, sem OAuth)."""
     import requests as req
     import csv
     import io
 
-    # URL de export CSV — funciona para qualquer planilha compartilhada publicamente
-    url = f'https://docs.google.com/spreadsheets/d/{SPREADSHEET_ID}/export?format=csv&gid=0'
-    print(f'Baixando CSV público: {url}')
+    url = f'https://docs.google.com/spreadsheets/d/{SPREADSHEET_ID}/export?format=csv&gid={SHEET_GID}'
+    print(f'Baixando CSV público (gid={SHEET_GID})...')
     resp = req.get(url, timeout=30, allow_redirects=True)
     resp.raise_for_status()
 
