@@ -197,6 +197,25 @@
 
   .btn-logout:hover { border-color: var(--vermelho); color: var(--vermelho); }
 
+  .btn-sync {
+    background: none;
+    border: 1px solid var(--dourado);
+    border-radius: 8px;
+    color: var(--dourado);
+    font-size: 12px;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-family: inherit;
+  }
+  .btn-sync:hover { background: var(--dourado); color: #13243A; }
+  .btn-sync:disabled { opacity: 0.5; cursor: not-allowed; }
+  .btn-sync.syncing .sync-icon { animation: spin 1s linear infinite; display: inline-block; }
+  @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
+
   .updated-at {
     font-size: 11px;
     color: var(--text-muted);
@@ -600,6 +619,10 @@
     </div>
     <div class="header-right">
       <span class="updated-at" id="updated-at"></span>
+      <button class="btn-sync" id="btn-sync" onclick="syncFromGoogleSheets()">
+        <span class="sync-icon">↻</span>
+        <span class="sync-label">Sincronizar</span>
+      </button>
       <div class="user-badge">
         <div class="user-avatar" id="user-avatar">A</div>
         <div class="user-name" id="user-name-display">Auditor</div>
@@ -885,6 +908,181 @@ async function loadApp() {
   buildMyPanel(auditor);
   buildRanking();
   buildDetalhes(currentUser.isAdmin ? null : currentUser.auditor);
+}
+
+// ===== SYNC GOOGLE SHEETS (client-side) =====
+const SHEETS_CSV_URL = 'https://docs.google.com/spreadsheets/d/1rNvoycg3S6PdIyVZtfECVEsBTobJXzeX/export?format=csv&gid=1550622683';
+const CLIMA_MAP = { J: 'Segura', K: 'Duvidosa', L: 'Insegura' };
+
+function normEmpr(e) {
+  e = (e || '').trim().toUpperCase();
+  if (e.includes('CANASTRA')) return 'Canastra';
+  if ((e.includes('RESORT') || e.includes('SÃO PEDRO') || e.includes('SAO PEDRO')) && e.includes('RESORT')) return 'São Pedro Resort';
+  if (e.includes('THERMAS') || e.includes('SAO PEDRO') || e.includes('SÃO PEDRO')) return 'São Pedro Thermas';
+  if (e.includes('ESSENCE') || e.includes('ESSENSE')) return 'Essence';
+  if (e.includes('ALTA VISTA')) return 'Alta Vista';
+  if (e.includes('ATIBAIA')) return 'Atibaia';
+  return e.charAt(0) + e.slice(1).toLowerCase();
+}
+
+function normalizeDate(d) {
+  if (!d) return '';
+  d = d.trim();
+  // DD/MM/YYYY ou DD/MM/YY
+  let m = d.match(/^(\d{1,2})\/(\d{1,2})\/(\d{2,4})$/);
+  if (m) {
+    let y = m[3].length === 2 ? '20' + m[3] : m[3];
+    return `${y}-${m[2].padStart(2,'0')}-${m[1].padStart(2,'0')}`;
+  }
+  // M/D/YYYY
+  m = d.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+  if (m) return `${m[3]}-${m[1].padStart(2,'0')}-${m[2].padStart(2,'0')}`;
+  // YYYY-MM-DD
+  if (/^\d{4}-\d{2}-\d{2}$/.test(d)) return d;
+  return d;
+}
+
+function parseCSV(text) {
+  const rows = [];
+  const lines = text.split('\n');
+  for (let i = 0; i < lines.length; i++) {
+    const row = [];
+    let col = '', inQ = false;
+    for (let c = 0; c < lines[i].length; c++) {
+      const ch = lines[i][c];
+      if (ch === '"' && !inQ) { inQ = true; }
+      else if (ch === '"' && inQ && lines[i][c+1] === '"') { col += '"'; c++; }
+      else if (ch === '"' && inQ) { inQ = false; }
+      else if (ch === ',' && !inQ) { row.push(col); col = ''; }
+      else { col += ch; }
+    }
+    row.push(col);
+    rows.push(row);
+  }
+  return rows;
+}
+
+function processCSVRows(allValues) {
+  const rows = [];
+  for (let i = 0; i < allValues.length; i++) {
+    if (i < 2) continue; // pular cabeçalhos
+    const row = allValues[i];
+    while (row.length < 15) row.push('');
+    if (!row[0] || !row[0].trim()) continue;
+    const auditor = row[0].trim().toUpperCase().replace(/\s+/g,' ');
+    const dataStr = normalizeDate(row[1]);
+    const cancelamento = row[11] ? row[11].trim() : '';
+    const status = row[12] ? row[12].trim().replace('\u00a0','') : '';
+    const climaRaw = row[14] ? row[14].trim().replace('\u00a0','') : '';
+    const clima = CLIMA_MAP[climaRaw] || climaRaw;
+    const empr = normEmpr(row[4]);
+    rows.push({
+      auditor, data: dataStr,
+      cliente: (row[2]||'').trim(),
+      empreendimento: empr,
+      consultor: (row[9]||'').trim(),
+      to: (row[10]||'').trim(),
+      solicitacao_cancelamento: cancelamento === 'Solicitação de Cancelamento',
+      status,
+      clima,
+    });
+  }
+  return rows;
+}
+
+function calcStats(rows) {
+  const allAuditors = [...new Set(rows.map(r => r.auditor))].sort();
+  const auditores = {};
+  for (const aud of allAuditors) {
+    const recs = rows.filter(r => r.auditor === aud);
+    const total = recs.length;
+    const cancelados = recs.filter(r => r.status === 'CANCELADO').length;
+    const pct = total > 0 ? Math.round(cancelados / total * 1000) / 10 : 0;
+    const climasCount = {};
+    let totalComClima = 0;
+    for (const r of recs) {
+      if (r.clima && r.clima !== '\u00a0') {
+        climasCount[r.clima] = (climasCount[r.clima] || 0) + 1;
+        totalComClima++;
+      }
+    }
+    const climas = {};
+    for (const [c, n] of Object.entries(climasCount)) {
+      climas[c] = { count: n, pct: Math.round(n / totalComClima * 1000) / 10 };
+    }
+    const cancel_por_clima = {};
+    for (const ct of ['Segura','Duvidosa','Insegura']) {
+      const cr = recs.filter(r => r.clima === ct);
+      const cc = cr.filter(r => r.status === 'CANCELADO');
+      if (cr.length) cancel_por_clima[ct] = { total: cr.length, cancelados: cc.length, pct: Math.round(cc.length/cr.length*1000)/10 };
+    }
+    const byEmpr = {};
+    for (const r of recs) {
+      if (!byEmpr[r.empreendimento]) byEmpr[r.empreendimento] = [];
+      byEmpr[r.empreendimento].push(r);
+    }
+    const por_empreendimento = {};
+    for (const [e, er] of Object.entries(byEmpr)) {
+      const ec = er.filter(r => r.status === 'CANCELADO').length;
+      por_empreendimento[e] = { total: er.length, cancelados: ec, pct: Math.round(ec/er.length*1000)/10 };
+    }
+    const byMonth = {};
+    for (const r of recs) {
+      const m = r.data ? r.data.slice(0,7) : 'ERRO';
+      if (!byMonth[m]) byMonth[m] = [];
+      byMonth[m].push(r);
+    }
+    const por_mes = {};
+    for (const [m, mr] of Object.entries(byMonth).sort()) {
+      const mc = mr.filter(r => r.status === 'CANCELADO').length;
+      por_mes[m] = { total: mr.length, cancelados: mc, pct: Math.round(mc/mr.length*1000)/10 };
+    }
+    auditores[aud] = { total, cancelados, vendas_liquidas: total-cancelados, pct_cancelamento: pct, climas, cancel_por_clima, por_empreendimento, por_mes };
+  }
+  const ranking = [...allAuditors].sort((a,b) => auditores[a].pct_cancelamento - auditores[b].pct_cancelamento);
+  const now = new Date();
+  const pad = n => String(n).padStart(2,'0');
+  const updated_at = `${now.getFullYear()}-${pad(now.getMonth()+1)}-${pad(now.getDate())} ${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
+  return { updated_at, total_conferencias: rows.length, auditores, ranking, registros: rows };
+}
+
+async function syncFromGoogleSheets() {
+  const btn = document.getElementById('btn-sync');
+  const label = btn.querySelector('.sync-label');
+  btn.disabled = true;
+  btn.classList.add('syncing');
+  label.textContent = 'Sincronizando…';
+
+  try {
+    // Usar proxy CORS para contornar restrição de cross-origin
+    const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(SHEETS_CSV_URL);
+    const resp = await fetch(proxyUrl);
+    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+    const text = await resp.text();
+    const allValues = parseCSV(text);
+    const rows = processCSVRows(allValues);
+    if (rows.length === 0) throw new Error('Nenhum registro encontrado na planilha.');
+    const newData = calcStats(rows);
+    DATA = newData;
+
+    // Reatualizar a UI
+    document.getElementById('updated-at').textContent = 'Atualizado: ' + DATA.updated_at;
+    const auditor = currentUser.isAdmin ? DATA.ranking[0] : currentUser.auditor;
+    painelAuditor = auditor;
+    initPainelFilters(auditor);
+    initRankingFilters();
+    buildMyPanel(auditor);
+    buildRanking();
+    buildDetalhes(currentUser.isAdmin ? null : currentUser.auditor);
+    if (currentUser.isAdmin) buildAdminTabs();
+
+    label.textContent = `✓ ${rows.length} registros`;
+    setTimeout(() => { label.textContent = 'Sincronizar'; btn.disabled = false; btn.classList.remove('syncing'); }, 3000);
+  } catch (err) {
+    console.error('Sync error:', err);
+    label.textContent = 'Erro — tente novamente';
+    setTimeout(() => { label.textContent = 'Sincronizar'; btn.disabled = false; btn.classList.remove('syncing'); }, 4000);
+  }
 }
 
 // ===== FILTROS MEU PAINEL =====
