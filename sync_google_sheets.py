@@ -154,11 +154,15 @@ def _normalize_date(d):
         return ''
     d = d.strip()
     # Formato DD/MM/YYYY
-    if len(d) == 10 and d[2] == '/':
-        try:
-            return datetime.strptime(d, '%d/%m/%Y').strftime('%Y-%m-%d')
-        except ValueError:
-            pass
+    try:
+        return datetime.strptime(d, '%d/%m/%Y').strftime('%Y-%m-%d')
+    except ValueError:
+        pass
+    # Formato DD/MM/YY
+    try:
+        return datetime.strptime(d, '%d/%m/%y').strftime('%Y-%m-%d')
+    except ValueError:
+        pass
     # Formato YYYY-MM-DD (já correto)
     if len(d) == 10 and d[4] == '-':
         return d
@@ -167,6 +171,12 @@ def _normalize_date(d):
         return datetime.strptime(d, '%m/%d/%Y').strftime('%Y-%m-%d')
     except ValueError:
         pass
+    # Formato D-Mon-YYYY (ex: 6-Dec-2025) — exportado pelo Google Sheets em inglês
+    for fmt in ('%d-%b-%Y', '%d-%B-%Y'):
+        try:
+            return datetime.strptime(d, fmt).strftime('%Y-%m-%d')
+        except ValueError:
+            pass
     return d
 
 
