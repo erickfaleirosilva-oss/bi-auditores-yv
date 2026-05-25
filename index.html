@@ -950,9 +950,12 @@ function normalizeDate(d) {
 }
 
 function parseCSV(text) {
+  // Normalizar quebras de linha (Windows \r\n → \n)
+  text = text.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
   const rows = [];
   const lines = text.split('\n');
   for (let i = 0; i < lines.length; i++) {
+    if (!lines[i].trim()) continue; // pular linhas vazias
     const row = [];
     let col = '', inQ = false;
     for (let c = 0; c < lines[i].length; c++) {
@@ -969,6 +972,9 @@ function parseCSV(text) {
   return rows;
 }
 
+// Auditores válidos — só aceitar estes nomes (evita linhas de cabeçalho/instrução entrarem como dado)
+const AUDITORES_VALIDOS = new Set(['BRENO','ALESSANDRA','SAMUEL']);
+
 function processCSVRows(allValues) {
   const rows = [];
   for (let i = 0; i < allValues.length; i++) {
@@ -977,6 +983,8 @@ function processCSVRows(allValues) {
     while (row.length < 15) row.push('');
     if (!row[0] || !row[0].trim()) continue;
     const auditor = row[0].trim().toUpperCase().replace(/\s+/g,' ');
+    // Ignorar linhas de instrução/cabeçalho que não são auditores reais
+    if (!AUDITORES_VALIDOS.has(auditor)) continue;
     const dataStr = normalizeDate(row[1]);
     const cancelamento = row[11] ? row[11].trim() : '';
     const status = row[12] ? row[12].trim().replace('\u00a0','') : '';
@@ -1035,7 +1043,8 @@ function calcStats(rows) {
     }
     const byMonth = {};
     for (const r of recs) {
-      const m = r.data ? r.data.slice(0,7) : 'ERRO';
+      const m = (r.data && r.data.length >= 7 && r.data[4] === '-') ? r.data.slice(0,7) : null;
+      if (!m) continue; // ignorar registros com data inválida no agrupamento mensal
       if (!byMonth[m]) byMonth[m] = [];
       byMonth[m].push(r);
     }
