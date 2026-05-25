@@ -1070,13 +1070,33 @@ async function syncFromGoogleSheets() {
   label.textContent = 'Sincronizando…';
 
   try {
-    // Usar proxy CORS para contornar restrição de cross-origin
-    const proxyUrl = 'https://corsproxy.io/?' + encodeURIComponent(SHEETS_CSV_URL);
-    const resp = await fetch(proxyUrl);
-    if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-    const text = await resp.text();
+    // Tentar múltiplos proxies CORS em sequência
+    const proxies = [
+      'https://api.allorigins.win/raw?url=' + encodeURIComponent(SHEETS_CSV_URL),
+      'https://corsproxy.io/?' + encodeURIComponent(SHEETS_CSV_URL),
+      'https://cors-anywhere.herokuapp.com/' + SHEETS_CSV_URL,
+    ];
+    let text = null;
+    for (const proxyUrl of proxies) {
+      try {
+        console.log('[sync] tentando proxy:', proxyUrl.split('?')[0]);
+        const resp = await fetch(proxyUrl, { signal: AbortSignal.timeout(10000) });
+        if (!resp.ok) { console.warn('[sync] proxy falhou HTTP', resp.status); continue; }
+        const t = await resp.text();
+        // Validar que veio CSV real (primeira linha tem vírgula ou é cabeçalho conhecido)
+        if (t.length > 100 && (t.includes('AUDITOR') || t.includes('BRENO') || t.includes('ALESSANDRA'))) {
+          text = t;
+          console.log('[sync] proxy OK, bytes:', t.length);
+          break;
+        }
+        console.warn('[sync] proxy retornou conteúdo inválido, tamanho:', t.length);
+      } catch(e) { console.warn('[sync] proxy erro:', e.message); }
+    }
+    if (!text) throw new Error('Todos os proxies falharam. Tente novamente.');
     const allValues = parseCSV(text);
+    console.log('[sync] linhas CSV:', allValues.length);
     const rows = processCSVRows(allValues);
+    console.log('[sync] registros processados:', rows.length);
     if (rows.length === 0) throw new Error('Nenhum registro encontrado na planilha.');
     const newData = calcStats(rows);
     DATA = newData;
