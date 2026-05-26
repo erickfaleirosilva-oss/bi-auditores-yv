@@ -115,6 +115,25 @@
 
   .btn-login:hover { opacity: 0.9; }
 
+  .remember-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 4px 0 8px;
+    cursor: pointer;
+    user-select: none;
+  }
+  .remember-row input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    accent-color: var(--dourado);
+    cursor: pointer;
+  }
+  .remember-row span {
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+
   .login-error {
     color: var(--vermelho);
     font-size: 13px;
@@ -603,6 +622,10 @@
       <label>Senha</label>
       <input type="password" id="inp-pass" placeholder="••••••" autocomplete="current-password">
     </div>
+    <label class="remember-row">
+      <input type="checkbox" id="chk-remember">
+      <span>Lembrar de mim</span>
+    </label>
     <button class="btn-login" onclick="doLogin()">Entrar</button>
     <div class="login-error" id="login-err">Usuário ou senha inválidos</div>
   </div>
@@ -841,13 +864,34 @@ let rankingDe = '';
 let rankingAte = '';
 
 // ===== LOGIN =====
+// ── Lembrar credenciais ──────────────────────────────────────────────────────
+const LS_KEY = 'yv_bi_remember';
+
+function loadSavedCredentials() {
+  try {
+    const saved = JSON.parse(localStorage.getItem(LS_KEY) || 'null');
+    if (saved && saved.user && saved.pass) {
+      document.getElementById('inp-user').value = saved.user;
+      document.getElementById('inp-pass').value = saved.pass;
+      document.getElementById('chk-remember').checked = true;
+    }
+  } catch(e) {}
+}
+
 function doLogin() {
   const user = document.getElementById('inp-user').value.trim().toLowerCase();
   const pass = document.getElementById('inp-pass').value.trim();
   const err  = document.getElementById('login-err');
+  const remember = document.getElementById('chk-remember').checked;
 
   if (USERS[user] && USERS[user].pass === pass) {
     err.style.display = 'none';
+    // Salvar ou limpar credenciais conforme checkbox
+    if (remember) {
+      localStorage.setItem(LS_KEY, JSON.stringify({ user, pass }));
+    } else {
+      localStorage.removeItem(LS_KEY);
+    }
     currentUser = { ...USERS[user], username: user };
     loadApp();
   } else {
@@ -859,12 +903,19 @@ document.getElementById('inp-pass').addEventListener('keydown', e => {
   if (e.key === 'Enter') doLogin();
 });
 
+// Preencher campos se houver credenciais salvas
+loadSavedCredentials();
+
 function doLogout() {
   currentUser = null;
   document.getElementById('app').style.display = 'none';
   document.getElementById('login-screen').style.display = 'flex';
-  document.getElementById('inp-user').value = '';
-  document.getElementById('inp-pass').value = '';
+  // Manter campos preenchidos se "Lembrar de mim" estiver ativo
+  const saved = JSON.parse(localStorage.getItem(LS_KEY) || 'null');
+  if (!saved) {
+    document.getElementById('inp-user').value = '';
+    document.getElementById('inp-pass').value = '';
+  }
 }
 
 // ===== CARREGAR APP =====
