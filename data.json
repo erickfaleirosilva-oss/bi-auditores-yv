@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-05-30 08:33:00",
-  "total_conferencias": 722,
+  "updated_at": "2026-05-31 08:17:41",
+  "total_conferencias": 725,
   "auditores": {
     "ALESSANDRA": {
-      "total": 221,
+      "total": 224,
       "cancelados": 65,
-      "vendas_liquidas": 156,
-      "pct_cancelamento": 29.4,
+      "vendas_liquidas": 159,
+      "pct_cancelamento": 29.0,
       "climas": {
         "Segura": {
-          "count": 182,
-          "pct": 82.4
+          "count": 185,
+          "pct": 82.6
         },
         "Duvidosa": {
           "count": 34,
-          "pct": 15.4
+          "pct": 15.2
         },
         "Insegura": {
           "count": 5,
-          "pct": 2.3
+          "pct": 2.2
         }
       },
       "cancel_por_clima": {
         "Segura": {
-          "total": 182,
+          "total": 185,
           "cancelados": 46,
-          "pct": 25.3
+          "pct": 24.9
         },
         "Duvidosa": {
           "total": 34,
@@ -40,9 +40,9 @@
       },
       "por_empreendimento": {
         "São Pedro Resort": {
-          "total": 220,
+          "total": 223,
           "cancelados": 64,
-          "pct": 29.1
+          "pct": 28.7
         },
         "Canastra": {
           "total": 1,
@@ -187,7 +187,7 @@
           "pct": 33.3
         },
         "2026-05": {
-          "total": 2,
+          "total": 5,
           "cancelados": 0,
           "pct": 0.0
         },
@@ -11715,7 +11715,7 @@
       "empreendimento": "São Pedro Resort",
       "duvida": "SEM DÚVIDAS",
       "divergencia": "SEM DIVERGÊNCIAS",
-      "obs": "VENDA SEGURA. CLIENTE FELIZ COM A AQUISIÇÃO, AFIRMOU NÃO TER DÚVIDAS. 1 COTA, CHECK-LIST BEM ESCLARECIDO E REALIZADO ANTES DO PAGAMENTO.",
+      "obs": "VENDA SEGURA. CLIENTE FELIZ COM A AQUISIÇÃO, AFIRMOU NÃO TER DÚVIDAS. 1 COTA, CHECK-LIST BEM ESCLARECIDO E REALIZADO ANTES DO PAGAMENTO. CLIENTE REALIZOU CANCELAMENTO EM SALA, FOI PREENCHIDO TERMO DE DISTRATO. MOTIVO: CLIENTE ALEGOU NÃO TER CONDIÇÕES FINANCEIRAS PARA AQUISIÇÃO DA COTA, PORÉM DEMONSTROU INTERESSE EM ADQUIRIR FUTURAMENTE.",
       "consultor": "LUCAS VICENTE",
       "to": "LUIS LOPES",
       "solicitacao_cancelamento": false,
@@ -11736,6 +11736,51 @@
       "solicitacao_cancelamento": false,
       "status": "ATIVO",
       "pgto_antes": "DEPOIS",
+      "clima": "Segura"
+    },
+    {
+      "auditor": "ALESSANDRA",
+      "data": "2026-05-30",
+      "cliente": "SUELLEN REGINA DE MELLO CARDOSO",
+      "empreendimento": "São Pedro Resort",
+      "duvida": "SEM DÚVIDAS",
+      "divergencia": "SEM DIVERGÊNCIAS",
+      "obs": "VENDA SEGURA. CLIENTE TRANQUILO E SEGURO COM A AQUISIÇÃO DA COTA, ELOGIOU ATENDIMENTO E AFIRMOU NÃO TER DÚVIDAS. 1 COTA. CHECK-LIST BEM ESCLARECIDO E REALIZADO ANTES DO PAGAMENTO.",
+      "consultor": "MEIRIANE CORDEIRO",
+      "to": "LUIS LOPES",
+      "solicitacao_cancelamento": false,
+      "status": "ATIVO",
+      "pgto_antes": "",
+      "clima": "Segura"
+    },
+    {
+      "auditor": "ALESSANDRA",
+      "data": "2026-05-30",
+      "cliente": "TATIANA RIBEIRO CORAINE",
+      "empreendimento": "São Pedro Resort",
+      "duvida": "SEM DÚVIDAS",
+      "divergencia": "SEM DIVERGÊNCIAS",
+      "obs": "VENDA SEGURA. CLIENTE MUITO FELIZ COM A AQUISIÇÃO, AFIRMOU QUE UTILIZARÁ PARA LAZER E FÉRIAS, ELOGIOU ATENDIMENTO E AFIRMOU NÃO TER DÚVIDAS. VENDA SAUDÁVEL. 1 COTA. CHECK-LIST BEM ESCLARECIDO E REALIZADO ANTES DO PAGAMENTO.",
+      "consultor": "LUCAS VICENTE",
+      "to": "DIEGO BENTO",
+      "solicitacao_cancelamento": false,
+      "status": "ATIVO",
+      "pgto_antes": "",
+      "clima": "Segura"
+    },
+    {
+      "auditor": "ALESSANDRA",
+      "data": "2026-05-30",
+      "cliente": "MARIANA TIKUMA NUNES",
+      "empreendimento": "São Pedro Resort",
+      "duvida": "SEM DÚVIDAS",
+      "divergencia": "SEM DIVERGÊNCIAS",
+      "obs": "VENDA SEGURA. CLIENTE DEMONSTROU SATISFAÇÃO COM A AQUISIÇÃO DA COTA, ELOGIOU TODO O ATENDIMENTO, DESDE A CAPTAÇÃO, AFIRMOU NÃO TER DÚVIDAS. VENDA SAUDÁVEL. 1 COTA. CHECK-LIST BEM ESCLARECIDO E REALIZADO ANTES DO PAGAMENTO.",
+      "consultor": "BRUNO CARDOSO",
+      "to": "LUIS LOPES",
+      "solicitacao_cancelamento": false,
+      "status": "ATIVO",
+      "pgto_antes": "",
       "clima": "Segura"
     }
   ]
